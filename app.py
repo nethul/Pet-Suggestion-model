@@ -2,8 +2,17 @@ from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 import os
+from flask_cors import CORS
 
 app = Flask(__name__)
+
+CORS(app, resources={
+    r"/*": {
+        "origins": "*",  # Or specify your frontend URL: ["http://localhost:5173", "https://your-frontend.com"]
+        "methods": ["GET", "POST", "OPTIONS"],
+        "allow_headers": ["Content-Type"]
+    }
+})
 
 # Load the model
 MODEL_PATH = 'pet_suggestion_model.pkl'
@@ -12,6 +21,16 @@ if os.path.exists(MODEL_PATH):
 else:
     model = None
     print(f"Warning: Model file not found at {MODEL_PATH}")
+
+@app.route('/')
+def home():
+    return jsonify({
+        'message': 'Pet Suggestion API',
+        'model_loaded': model is not None,
+        'status': 'ready' if model is not None else 'training_failed'
+    })    
+
+    
 
 @app.route('/health', methods=['GET'])
 def health():
