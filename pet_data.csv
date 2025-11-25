@@ -1,0 +1,1001 @@
+Name,Gender,Age,Salary,Pet,Mental Condition,Allergies,Satisfaction
+Lahiru Herath,male,52,133981,dog,Panic Disorder / Severe Anxiety,no,yes
+Oshadi Gamage,female,24,141185,dog,Autism,no,yes
+Chathura Rathnayake,male,70,129992,cat,Mild Anxiety,no,yes
+Sewwandi Gunathilaka,female,79,105434,cat,Bipolar Disorder,yes,yes
+Chandani Vithanage,female,58,86930,dog,Emotional Support,no,no
+Ranjith Cooray,male,41,134644,cat,Emotional Support,no,yes
+Chandrika Amarasinghe,female,56,140791,dog,Clinical Depression,no,yes
+Chandrika Ranasinghe,female,28,99761,cat,Autism,no,yes
+Ayesha Samarakoon,female,67,147260,cat,Schizophrenia,no,yes
+Tharindi Fernando,female,30,138667,dog,Clinical Depression,no,yes
+Priyani Mendis,female,55,82597,cat,Bipolar Disorder,no,no
+Gayan Ranasinghe,male,27,104061,dog,Clinical Depression,no,yes
+Nimalka Herath,female,50,119496,dog,Clinical Depression,no,yes
+Nimalka Ranatunga,female,50,102858,cat,Mild Anxiety,no,yes
+Ishara Wickramasinghe,female,84,136264,cat,Schizophrenia,no,no
+Tharindu Ranatunga,male,97,77884,cat,Mild Depression,no,yes
+Ananda De Alwis,male,72,70961,cat,Autism,no,yes
+Rohan Ekanayake,male,84,116837,cat,Panic Disorder / Severe Anxiety,no,yes
+Udaya Bandara,male,25,132557,dog,Loneliness,no,yes
+Nalin Senanayake,male,66,128057,cat,Mild Depression,yes,yes
+Ruwan Gunawardena,male,86,76416,cat,PTSD,no,yes
+Hansika Bandara,female,97,107421,cat,PTSD,no,yes
+Nuwan Wickramaratne,male,91,117998,dog,Loneliness,no,no
+Mahesh Karunaratne,male,46,68165,cat,Emotional Support,no,yes
+Ananda Jayasundara,male,94,119119,cat,Mild Anxiety,no,yes
+Tharaka Jayawardena,male,66,70869,cat,Schizophrenia,no,no
+Sewwandi Dissanayake,female,46,145597,dog,Emotional Support,no,yes
+Mahesh Mendis,male,73,105022,cat,PTSD,no,yes
+Hiruni Dissanayake,female,63,97644,cat,Mild Depression,no,yes
+Dilini De Alwis,female,46,138574,dog,Schizophrenia,no,yes
+Madushi Bandara,female,42,80642,dog,OCD – Severe,no,yes
+Priyani Gamage,female,24,82284,dog,Panic Disorder / Severe Anxiety,no,yes
+Kaushalya Rajapaksa,female,73,77369,cat,Emotional Support,no,yes
+Thisara Silva,male,82,80037,cat,Panic Disorder / Severe Anxiety,no,yes
+Hansika Mendis,female,87,116022,cat,Mild Anxiety,no,yes
+Dilini Herath,female,32,86070,dog,Schizophrenia,no,yes
+Chaminda Welikala,male,87,149100,cat,OCD – Severe,no,yes
+Hasini Silva,female,62,147244,cat,Panic Disorder / Severe Anxiety,yes,yes
+Nuwan Kumari,male,84,144911,dog,Mild Anxiety,no,yes
+Sewwandi Hettiarachchi,female,65,86515,cat,PTSD,no,yes
+Dilrukshi Silva,female,18,131768,dog,Emotional Support,no,yes
+Rohan Samaraweera,male,46,128631,cat,Mild Depression,yes,yes
+Sunil Welikala,male,90,93905,cat,PTSD,yes,yes
+Sachini Rodrigo,female,42,125101,dog,OCD – Severe,no,yes
+Ruvini Siriwardena,female,27,105817,cat,Bipolar Disorder,yes,yes
+Dinesh Wickramasinghe,male,83,72837,cat,Mild Anxiety,no,yes
+Priyani Hettiarachchi,female,86,88239,cat,PTSD,no,yes
+Lahiru Yapa,male,67,121386,dog,Loneliness,no,yes
+Dilhani Jayakody,female,89,77328,cat,Schizophrenia,no,yes
+Erandi Fonseka,female,46,96105,cat,PTSD,yes,yes
+Oshini Yapa,female,85,121371,dog,Clinical Depression,no,yes
+Nadeesha Ranasinghe,female,19,82586,dog,Loneliness,no,yes
+Nadeesha De Silva,female,59,83820,dog,Mild Anxiety,no,yes
+Dilhani Gamage,female,30,104715,dog,Emotional Support,no,yes
+Nalin De Alwis,male,42,128308,dog,PTSD,no,yes
+Ruvini Bandara,female,52,81949,cat,Bipolar Disorder,yes,yes
+Chandimal Samarakoon,male,75,99883,dog,Loneliness,no,yes
+Anusha Bandara,female,55,117474,dog,Schizophrenia,no,yes
+Hiruni Kumarasinghe,female,96,108434,cat,Panic Disorder / Severe Anxiety,no,yes
+Pramila Gunathilaka,female,61,128398,dog,PTSD,no,yes
+Sumith Mendis,male,97,142481,cat,OCD – Severe,no,yes
+Chandimal Wickramasinghe,male,63,75973,cat,Bipolar Disorder,yes,yes
+Thilanka Vithanage,female,78,79949,dog,Clinical Depression,no,yes
+Lakshman Silva,male,96,80938,cat,OCD – Severe,no,yes
+Prasanna Jayawardena,male,39,71961,dog,Bipolar Disorder,no,yes
+Samanthi Gunasekara,female,28,106739,dog,Autism,no,no
+Amaya Jayakody,female,18,115317,dog,Bipolar Disorder,no,yes
+Nethmi Mendis,female,45,104381,dog,PTSD,no,yes
+Menaka Wijesinghe,female,22,83862,dog,Emotional Support,no,yes
+Nimali Karunaratne,female,39,114473,cat,Bipolar Disorder,yes,yes
+Nethmi Senanayake,female,33,125703,dog,Mild Depression,no,yes
+Anusha Ekanayake,female,58,135684,dog,Schizophrenia,no,yes
+Lakmini Yapa,female,30,142667,dog,Clinical Depression,no,yes
+Erandi Kumari,female,99,104800,cat,Mild Anxiety,no,no
+Samanthi Rodrigo,female,93,69921,cat,Autism,no,yes
+Nalin Mendis,male,65,80957,cat,OCD – Severe,no,yes
+Jayasinghe Karunaratne,male,39,127822,cat,Emotional Support,yes,yes
+Wasantha Jayawardena,male,75,84446,cat,Mild Depression,no,yes
+Sewwandi Fonseka,female,41,118709,cat,Emotional Support,no,no
+Prasanna Fernando,male,45,82102,cat,Autism,no,yes
+Priyani Rathnayake,female,79,81398,cat,Schizophrenia,no,yes
+Nilmini Mendis,female,79,106426,cat,OCD – Severe,yes,yes
+Asanka Gunawardena,male,34,110838,dog,Bipolar Disorder,no,yes
+Nuwan Herath,male,33,125348,dog,Schizophrenia,no,no
+Dilan Karunaratne,male,55,115144,dog,Mild Depression,no,yes
+Gamini Hettiarachchi,male,18,110536,dog,OCD – Severe,no,yes
+Sewwandi Seneviratne,female,53,130497,dog,Schizophrenia,no,yes
+Kamani Fernando,female,98,111374,cat,Clinical Depression,yes,yes
+Shashika Jayasundara,female,78,137111,cat,Mild Anxiety,no,yes
+Shashika Perera,female,64,139012,cat,OCD – Severe,no,no
+Charuni Samaraweera,female,83,130225,dog,Loneliness,no,yes
+Wasantha Seneviratne,male,66,108252,cat,Autism,no,yes
+Priyani Seneviratne,female,81,91110,cat,Schizophrenia,no,no
+Shashika De Silva,female,27,108774,cat,Panic Disorder / Severe Anxiety,no,yes
+Chandani Seneviratne,female,33,102011,dog,Schizophrenia,no,yes
+Nalin Cooray,male,32,144226,cat,Emotional Support,yes,yes
+Ayesha Wickremaratne,female,63,144267,dog,Autism,no,yes
+Chandana De Silva,male,95,121052,dog,Bipolar Disorder,no,yes
+Kasun Ranatunga,male,74,123202,cat,Emotional Support,no,yes
+Deepika Rajapaksa,female,78,136386,cat,Mild Anxiety,yes,yes
+Kasun Bandara,male,22,90092,dog,Schizophrenia,no,no
+Amaya Silva,female,84,91485,cat,Schizophrenia,no,yes
+Charuni Hettiarachchi,female,99,139812,cat,Autism,no,yes
+Menaka Karunaratne,female,89,118821,cat,Bipolar Disorder,no,yes
+Anil Karunaratne,male,68,115367,cat,Clinical Depression,no,yes
+Ajith Samarakoon,male,42,142478,dog,Panic Disorder / Severe Anxiety,no,yes
+Ishara Rodrigo,female,90,117099,cat,Bipolar Disorder,yes,yes
+Sumith Perera,male,80,141556,dog,Panic Disorder / Severe Anxiety,no,yes
+Chandrika De Silva,female,75,70477,cat,Emotional Support,no,no
+Malini Siriwardena,female,57,79238,dog,Clinical Depression,no,yes
+Piyal Gunasekara,male,87,91293,cat,PTSD,no,yes
+Nuwan Jayakody,male,59,99096,dog,Mild Anxiety,no,no
+Dilini Gunawardena,female,96,71528,cat,Bipolar Disorder,no,yes
+Ireshani Jayasuriya,female,34,87490,cat,Emotional Support,no,yes
+Shalini Wickremaratne,female,25,104820,cat,OCD – Severe,yes,yes
+Prasanna Kumari,male,80,145213,dog,Schizophrenia,no,yes
+Shashika Kumarasinghe,female,34,142512,dog,Schizophrenia,no,no
+Upul Gunasekara,male,67,96158,cat,Bipolar Disorder,no,yes
+Ananda De Alwis,male,20,136699,dog,Autism,no,yes
+Sunil Abeysinghe,male,37,83895,dog,Clinical Depression,no,yes
+Susantha Wickramaratne,male,30,117465,dog,Autism,no,no
+Nihal Welikala,male,58,96566,cat,Loneliness,no,no
+Nuwan Fernando,male,94,78838,cat,Autism,yes,yes
+Samantha Wickramaratne,male,27,123086,dog,PTSD,no,yes
+Shanika Senanayake,female,90,146511,cat,Mild Anxiety,no,no
+Dilini Gunasekara,female,67,71069,cat,PTSD,no,yes
+Ravi Wijesuriya,male,32,107816,dog,Schizophrenia,no,yes
+Thilini Fonseka,female,65,119953,cat,Schizophrenia,no,no
+Nishantha Rajapaksa,male,71,117545,cat,Bipolar Disorder,no,yes
+Prasanna Liyanage,male,90,147947,cat,Bipolar Disorder,no,yes
+Chaminda Senanayake,male,36,141228,cat,Panic Disorder / Severe Anxiety,no,no
+Thisara Madushani,male,24,121747,dog,Panic Disorder / Severe Anxiety,no,yes
+Ayesha Wickramaratne,female,36,68109,dog,Loneliness,no,yes
+Hasini Jayakody,female,84,127343,dog,PTSD,no,yes
+Shashika Cooray,female,67,148158,dog,Clinical Depression,no,yes
+Pramila Dissanayake,female,50,108051,cat,Bipolar Disorder,no,yes
+Tharaka Samarakoon,male,60,136061,cat,Schizophrenia,no,yes
+Tharindu Ekanayake,male,84,115112,cat,Bipolar Disorder,no,yes
+Dhananjaya Ranasinghe,male,80,85998,cat,Autism,no,yes
+Sachini Cooray,female,43,106995,cat,Loneliness,yes,yes
+Jayasinghe De Alwis,male,82,88917,cat,OCD – Severe,no,no
+Chamara Pathirana,male,76,80818,cat,Mild Anxiety,no,yes
+Thisara Cooray,male,96,129119,cat,Bipolar Disorder,no,no
+Nuwan Madushani,male,42,145231,dog,Schizophrenia,no,yes
+Sunil Liyanage,male,20,135542,dog,Bipolar Disorder,no,yes
+Shanika Gunasekara,female,22,90151,dog,Autism,no,no
+Dilan Wickramage,male,36,75572,cat,Autism,no,yes
+Madhavi Ranasinghe,female,58,146279,dog,Schizophrenia,no,no
+Wasantha Liyanage,male,18,147532,dog,Panic Disorder / Severe Anxiety,no,yes
+Menaka De Alwis,female,59,75994,cat,Loneliness,no,yes
+Wasantha Gunathilaka,male,84,73379,cat,Mild Anxiety,no,no
+Oshini Vithanage,female,40,90672,cat,OCD – Severe,yes,yes
+Sachini Ranasinghe,female,99,136752,cat,Bipolar Disorder,no,no
+Palitha Mendis,male,86,72695,cat,PTSD,no,no
+Ranil Gamage,male,81,146594,cat,OCD – Severe,no,yes
+Nalin Gunathilaka,male,25,98199,dog,OCD – Severe,no,yes
+Hiruni De Silva,female,20,89350,cat,Panic Disorder / Severe Anxiety,yes,yes
+Chandimal Gamage,male,47,99079,cat,Panic Disorder / Severe Anxiety,no,yes
+Ajith Jayasuriya,male,65,86261,cat,Loneliness,yes,yes
+Dilhani Siriwardena,female,26,117965,cat,PTSD,yes,yes
+Tharindi Fernando,female,52,111517,dog,Loneliness,no,yes
+Sachini Silva,female,50,133163,cat,Autism,no,yes
+Thilan Herath,male,45,98201,cat,Loneliness,yes,yes
+Sachini Senanayake,female,47,123125,dog,Emotional Support,no,yes
+Chandana Jayawardena,male,66,114125,dog,Schizophrenia,no,yes
+Palitha Kumarasinghe,male,19,139913,dog,Loneliness,no,no
+Hiruni Amarasinghe,female,62,92316,cat,Bipolar Disorder,no,yes
+Janith Siriwardena,male,69,109140,cat,OCD – Severe,yes,yes
+Rohan Welikala,male,98,146363,dog,Loneliness,no,yes
+Pradeep Rathnayake,male,44,144477,dog,Panic Disorder / Severe Anxiety,no,yes
+Thilini Vithanage,female,65,134061,cat,Mild Depression,no,no
+Shashika De Alwis,female,67,114926,cat,Autism,yes,yes
+Jayantha Ranasinghe,male,31,71449,dog,Loneliness,no,yes
+Samantha Mendis,male,22,107175,dog,Autism,no,yes
+Manjula Abeysinghe,female,25,147586,dog,Mild Depression,yes,yes
+Gayathri Wijesinghe,female,44,97663,dog,Emotional Support,no,yes
+Menaka Wickramage,female,65,113820,cat,Mild Anxiety,yes,no
+Menaka Samarakoon,female,27,111277,dog,OCD – Severe,no,no
+Chathura Kumari,male,23,72054,dog,Panic Disorder / Severe Anxiety,no,yes
+Thilanka Wickramasinghe,female,49,148146,dog,Clinical Depression,no,yes
+Nihal Jayasuriya,male,81,85540,dog,Mild Depression,no,yes
+Kaushalya Jayawardena,female,46,92714,cat,Mild Anxiety,yes,yes
+Geethika Jayasuriya,female,66,113192,dog,PTSD,no,yes
+Nihal Seneviratne,male,32,71330,dog,Bipolar Disorder,no,yes
+Nethmi Siriwardena,female,61,114034,dog,Mild Depression,no,no
+Dilini Jayasundara,female,88,68162,cat,Emotional Support,no,no
+Gayan Senanayake,male,84,71121,cat,Schizophrenia,no,yes
+Sandya Perera,female,31,109121,cat,Mild Anxiety,yes,yes
+Prasanna Gunathilaka,male,25,115180,cat,Emotional Support,no,yes
+Chathura Perera,male,22,122412,dog,Mild Depression,no,yes
+Wasantha Wickramage,male,93,94277,cat,Mild Anxiety,no,yes
+Pavithra Vithanage,female,78,113804,dog,Loneliness,no,yes
+Hiruni Gamage,female,90,80611,cat,Autism,no,yes
+Nalin Jayawardena,male,60,140845,dog,Schizophrenia,no,yes
+Manjula Perera,female,66,111986,cat,Panic Disorder / Severe Anxiety,no,yes
+Priyani Kumari,female,79,81051,cat,Autism,no,yes
+Mahinda Pathirana,male,62,134949,cat,Emotional Support,no,yes
+Chandani Senanayake,female,63,78868,cat,PTSD,no,yes
+Hiruni Kumari,female,71,104846,dog,Mild Depression,no,yes
+Upul Seneviratne,male,59,105563,cat,Bipolar Disorder,yes,yes
+Ishara Gunasekara,female,40,104441,dog,Mild Depression,no,yes
+Oshadi Siriwardena,female,85,108802,cat,Autism,no,yes
+Shalini Gunawardena,female,71,101257,cat,OCD – Severe,yes,yes
+Ruwan Cooray,male,83,94832,cat,Loneliness,no,no
+Sewwandi Herath,female,49,132608,dog,Loneliness,no,yes
+Viraj De Alwis,male,42,111807,dog,PTSD,no,yes
+Dilrukshi Rajapaksa,female,64,70649,cat,Clinical Depression,no,yes
+Amaya Wickramage,female,62,122698,dog,Emotional Support,no,yes
+Madhavi Fernando,female,86,106620,cat,Bipolar Disorder,no,yes
+Dilini Perera,female,39,110972,dog,Mild Anxiety,no,yes
+Pramila Ranasinghe,female,82,77844,cat,Mild Depression,no,no
+Sarath Fonseka,male,67,91839,dog,PTSD,no,no
+Dilrukshi Wickramaratne,female,43,71259,cat,Mild Depression,no,yes
+Sachini Amarasinghe,female,49,95290,cat,OCD – Severe,no,no
+Jayasinghe Bandara,male,73,147970,cat,Emotional Support,no,yes
+Chaminda Wickremaratne,male,18,107680,dog,Emotional Support,no,yes
+Malini Gunawardena,female,53,136975,dog,Panic Disorder / Severe Anxiety,no,yes
+Bandula Wickremaratne,male,42,95951,cat,Mild Anxiety,no,yes
+Malini Madushani,female,53,146071,cat,OCD – Severe,no,yes
+Gayathri Pathirana,female,29,133015,dog,Mild Depression,no,yes
+Ruwan Wickramaratne,male,31,143859,dog,Bipolar Disorder,no,yes
+Gayathri Senanayake,female,93,74930,cat,Clinical Depression,yes,yes
+Oshini Samarakoon,female,31,116001,cat,Mild Anxiety,yes,yes
+Malini Siriwardena,female,45,76583,cat,PTSD,no,no
+Dilini Amarasinghe,female,53,112474,dog,Mild Depression,no,yes
+Oshini Rathnayake,female,42,83941,dog,Autism,no,yes
+Ravi Karunaratne,male,53,97845,dog,OCD – Severe,no,yes
+Mahinda Dissanayake,male,20,107267,cat,Mild Anxiety,yes,yes
+Menaka Welikala,female,43,120273,dog,Bipolar Disorder,no,yes
+Viraj Kumari,male,65,119252,cat,Panic Disorder / Severe Anxiety,no,yes
+Pradeep Fonseka,male,65,78326,cat,Panic Disorder / Severe Anxiety,no,yes
+Lahiru Bandara,male,64,142432,cat,Schizophrenia,yes,yes
+Chandani Gunasekara,female,68,101339,cat,Loneliness,no,yes
+Ruwan Wickramage,male,59,94582,dog,Bipolar Disorder,no,yes
+Buddhika Siriwardena,male,34,86767,dog,OCD – Severe,no,yes
+Thilanka Seneviratne,female,76,137668,cat,Loneliness,no,yes
+Jayantha Cooray,male,29,121812,dog,Panic Disorder / Severe Anxiety,no,yes
+Lalith Rodrigo,male,67,133573,dog,Mild Depression,no,yes
+Priyani Jayakody,female,48,120709,dog,Loneliness,no,no
+Kumara Abeysinghe,male,35,113600,dog,Loneliness,no,yes
+Nimali Cooray,female,98,89599,cat,Mild Depression,no,no
+Sandya Karunaratne,female,88,91857,cat,Autism,no,yes
+Asela Jayawardena,male,25,81815,dog,Clinical Depression,no,yes
+Deepika Jayakody,female,76,73557,cat,Bipolar Disorder,no,yes
+Ranjith Wickramasinghe,male,79,112859,cat,Panic Disorder / Severe Anxiety,no,yes
+Dilshan Madushani,male,45,71394,cat,Autism,no,yes
+Arjuna Wijesuriya,male,93,123362,dog,Mild Depression,no,yes
+Thisara Siriwardena,male,63,92836,cat,Bipolar Disorder,no,yes
+Oshini Silva,female,59,108367,dog,Schizophrenia,no,yes
+Bandula Jayawardena,male,50,68657,dog,PTSD,no,yes
+Udaya Rajapaksa,male,48,122411,cat,OCD – Severe,yes,yes
+Chandrika Fernando,female,43,93924,cat,Clinical Depression,no,yes
+Tharaka Silva,male,34,114763,dog,Bipolar Disorder,no,yes
+Dhananjaya Karunaratne,male,36,100203,cat,Autism,no,yes
+Gamini Abeysinghe,male,99,104188,cat,PTSD,no,no
+Ayesha Gunathilaka,female,43,87574,cat,Mild Anxiety,yes,no
+Dinesh Kumari,male,85,116218,cat,Mild Depression,no,yes
+Dilshan Cooray,male,57,140775,dog,Loneliness,no,yes
+Dilhani De Silva,female,79,129782,dog,PTSD,no,yes
+Ireshani Rajapaksha,female,65,88080,dog,Clinical Depression,no,yes
+Ishara Ranasinghe,female,68,99833,cat,Autism,yes,yes
+Nuwan Gunawardena,male,71,76908,dog,Loneliness,no,no
+Charuni Welikala,female,76,144736,cat,Clinical Depression,yes,yes
+Nethmi Gunasekara,female,51,134729,dog,PTSD,no,yes
+Oshadi Wickremaratne,female,20,144878,dog,Autism,no,yes
+Palitha Jayasuriya,male,35,108367,cat,Autism,no,yes
+Madhavi Mendis,female,94,70943,cat,PTSD,no,yes
+Asanka Liyanage,male,34,78944,cat,Autism,yes,yes
+Janaka Abeysinghe,male,73,104515,cat,Autism,no,yes
+Ranjith Kumari,male,41,102883,dog,Bipolar Disorder,no,yes
+Lalith Kumarasinghe,male,53,141553,dog,Schizophrenia,no,yes
+Samanthi Cooray,female,39,112436,dog,Schizophrenia,no,no
+Sanjeewa Dissanayake,male,45,103997,cat,PTSD,no,yes
+Anusha Samarakoon,female,63,93847,cat,Bipolar Disorder,yes,no
+Wasantha Ranasinghe,male,72,91423,dog,Clinical Depression,no,yes
+Thilini Herath,female,41,100193,cat,Bipolar Disorder,no,yes
+Sachini Rajapaksa,female,25,96518,cat,Panic Disorder / Severe Anxiety,yes,yes
+Sampath Bandara,male,50,93118,dog,Mild Anxiety,no,yes
+Dilini Wickramaratne,female,35,84740,dog,Autism,no,yes
+Dilshan Wickramasinghe,male,70,108516,cat,Mild Depression,no,yes
+Jayasinghe Mendis,male,55,71407,cat,PTSD,no,no
+Nadeesha Rodrigo,female,43,72986,cat,Mild Depression,no,yes
+Gayan De Silva,male,47,69480,cat,Mild Depression,yes,yes
+Rashmi Wickramasinghe,female,18,81771,dog,Panic Disorder / Severe Anxiety,no,yes
+Nethmi Ranatunga,female,92,125084,cat,Bipolar Disorder,no,yes
+Pradeep Yapa,male,46,69044,dog,Mild Depression,no,yes
+Sanjeewa Rathnayake,male,63,127133,cat,Panic Disorder / Severe Anxiety,no,yes
+Nadeesha Bandara,female,43,133699,dog,Emotional Support,no,no
+Oshini Jayasundara,female,87,103252,cat,Emotional Support,yes,yes
+Chathura Fonseka,male,18,80042,dog,Clinical Depression,no,yes
+Sampath Liyanage,male,91,125290,cat,PTSD,yes,yes
+Nimalka Ranatunga,female,47,119771,dog,Mild Depression,no,yes
+Samanthi Wijesinghe,female,19,127106,dog,Schizophrenia,no,yes
+Ayesha Gamage,female,60,111893,cat,Schizophrenia,no,yes
+Tharindu Fonseka,male,47,103280,dog,Clinical Depression,no,yes
+Dilrukshi Senanayake,female,33,121302,dog,Emotional Support,no,no
+Deepika Pathirana,female,64,146299,cat,Autism,yes,yes
+Hiruni Rodrigo,female,86,95851,cat,Panic Disorder / Severe Anxiety,yes,yes
+Hiruni Rodrigo,female,80,120527,cat,Autism,yes,yes
+Ravi Abeysinghe,male,91,106672,cat,Panic Disorder / Severe Anxiety,no,yes
+Niroshan Cooray,male,36,76483,cat,Panic Disorder / Severe Anxiety,yes,no
+Kumara Jayakody,male,90,114251,cat,Schizophrenia,no,yes
+Upul Cooray,male,49,131294,dog,Loneliness,no,yes
+Lakmini Ekanayake,female,53,99440,cat,Bipolar Disorder,no,yes
+Ranjith Gunasekara,male,76,127764,cat,Clinical Depression,no,yes
+Bandula Samaraweera,male,34,134599,dog,Clinical Depression,no,yes
+Chandana Kumari,male,64,112275,dog,PTSD,no,yes
+Kamani Cooray,female,55,116388,dog,Bipolar Disorder,no,yes
+Manjula Dissanayake,female,41,88430,dog,Mild Anxiety,no,yes
+Chandimal Samarakoon,male,23,126420,dog,Bipolar Disorder,no,yes
+Samantha Karunaratne,male,90,133621,cat,Schizophrenia,no,yes
+Chamara Pathirana,male,47,99334,cat,Panic Disorder / Severe Anxiety,no,yes
+Janith Perera,male,41,136747,cat,Autism,no,yes
+Janaka Senanayake,male,71,78326,cat,Bipolar Disorder,no,yes
+Dilini Dissanayake,female,43,113818,cat,Mild Depression,no,yes
+Sewwandi Siriwardena,female,75,118038,cat,Schizophrenia,yes,yes
+Chaminda Wickremaratne,male,77,85432,dog,Loneliness,no,yes
+Mahesh Herath,male,77,100400,cat,Mild Anxiety,no,yes
+Jayantha Jayawardena,male,28,124515,dog,Loneliness,no,no
+Geethika Wijesinghe,female,35,90985,dog,Autism,no,yes
+Dilan Gunathilaka,male,30,144910,dog,Bipolar Disorder,no,yes
+Kumari Fernando,female,46,138186,dog,Mild Depression,no,yes
+Shanika Wickremaratne,female,38,148550,cat,PTSD,no,no
+Nimalka Herath,female,71,108443,dog,Clinical Depression,no,yes
+Dilan Cooray,male,43,103287,dog,Mild Depression,no,yes
+Kumara Vithanage,male,70,107726,cat,Bipolar Disorder,yes,yes
+Sarath Siriwardena,male,76,121214,cat,Panic Disorder / Severe Anxiety,no,yes
+Lalith Madushani,male,48,142360,dog,Clinical Depression,no,yes
+Chaminda Rathnayake,male,63,93283,cat,Bipolar Disorder,no,yes
+Ravi De Silva,male,33,84662,dog,Clinical Depression,no,yes
+Geethika Dissanayake,female,63,74275,cat,Mild Depression,yes,yes
+Gayathri Hettiarachchi,female,35,119656,cat,PTSD,yes,no
+Jayantha Hettiarachchi,male,56,93241,cat,Panic Disorder / Severe Anxiety,no,yes
+Jayantha Gunasekara,male,38,142772,dog,Loneliness,no,yes
+Priyantha Samaraweera,male,53,101086,cat,Panic Disorder / Severe Anxiety,no,yes
+Nimali De Silva,female,94,134218,cat,Autism,no,yes
+Dhananjaya Perera,male,44,130894,dog,Bipolar Disorder,no,yes
+Iresha Rajapaksha,female,91,146689,dog,Mild Depression,no,yes
+Menaka Abeysinghe,female,72,140914,cat,Emotional Support,no,yes
+Nihal Gamage,male,36,129853,cat,Panic Disorder / Severe Anxiety,no,yes
+Ranjith Ekanayake,male,39,85124,dog,Schizophrenia,no,yes
+Nimali Siriwardena,female,93,130346,dog,Schizophrenia,no,yes
+Niroshan Vithanage,male,34,81153,cat,Loneliness,yes,yes
+Thilini Rajapaksa,female,62,70734,cat,PTSD,no,yes
+Madushi Wijesinghe,female,21,149559,dog,OCD – Severe,no,yes
+Priyantha Jayasundara,male,52,144385,dog,Autism,no,yes
+Hansika Welikala,female,71,86756,cat,PTSD,yes,yes
+Pavithra Amarasinghe,female,73,103029,dog,Loneliness,no,yes
+Asela Welikala,male,100,124141,dog,Mild Depression,no,yes
+Ayesha Perera,female,18,96944,dog,Clinical Depression,no,yes
+Samanthi Rajapaksha,female,95,102206,cat,Autism,no,yes
+Ananda Kumarasinghe,male,86,90166,cat,Bipolar Disorder,no,yes
+Nalin Madushani,male,74,144096,cat,PTSD,yes,yes
+Anusha Kumari,female,42,136138,cat,OCD – Severe,yes,yes
+Kaushalya Wickramaratne,female,40,110897,cat,Bipolar Disorder,no,yes
+Gayan Wijesinghe,male,74,132005,cat,Schizophrenia,no,yes
+Dilan Wickramasinghe,male,81,108826,dog,Mild Depression,no,yes
+Niroshan Jayasundara,male,91,73762,cat,Mild Anxiety,no,yes
+Dilshan Perera,male,64,105871,cat,OCD – Severe,no,yes
+Chathurika Kumarasinghe,female,63,86215,cat,Bipolar Disorder,no,yes
+Sanduni Madushani,female,26,140807,dog,Loneliness,no,yes
+Samanthi Fonseka,female,51,142095,cat,Panic Disorder / Severe Anxiety,yes,yes
+Chaminda Bandara,male,21,94848,dog,Schizophrenia,no,yes
+Gayan Jayawardena,male,20,116048,cat,Schizophrenia,yes,yes
+Dilhani Jayasuriya,female,34,103679,dog,PTSD,no,yes
+Tharindi Abeysinghe,female,75,106112,cat,Loneliness,no,yes
+Thilanka De Silva,female,23,69539,cat,Autism,no,yes
+Gamini Rathnayake,male,37,86368,dog,Schizophrenia,no,yes
+Oshini Seneviratne,female,25,128862,cat,Autism,yes,yes
+Malini Kumari,female,58,132716,dog,Bipolar Disorder,no,yes
+Malini Gunawardena,female,34,146946,dog,Schizophrenia,yes,no
+Ayesha Hettiarachchi,female,31,99443,cat,Mild Anxiety,yes,yes
+Tharindu Jayasundara,male,89,115888,cat,Loneliness,no,yes
+Amaya Hettiarachchi,female,71,93282,cat,Emotional Support,no,yes
+Chatura Wickramaratne,male,73,95407,cat,Schizophrenia,no,yes
+Bandula Jayakody,male,31,124240,dog,Schizophrenia,no,yes
+Rohan Gunawardena,male,57,119594,cat,Schizophrenia,no,yes
+Madushi Dissanayake,female,33,68666,cat,Autism,no,yes
+Nuwan Hettiarachchi,male,72,75364,cat,OCD – Severe,yes,no
+Hasini Dissanayake,female,28,79506,dog,Bipolar Disorder,no,yes
+Jayasinghe Wickramage,male,60,119604,dog,Mild Depression,no,no
+Asela Seneviratne,male,68,79300,cat,Mild Anxiety,no,yes
+Chandrika Perera,female,20,82208,dog,Schizophrenia,no,yes
+Lakshman Fonseka,male,37,75294,cat,Bipolar Disorder,yes,yes
+Chandimal Gunathilaka,male,83,73018,cat,OCD – Severe,yes,yes
+Sarath Samarakoon,male,45,147491,cat,Panic Disorder / Severe Anxiety,yes,yes
+Sumith Rodrigo,male,27,78824,dog,Emotional Support,no,yes
+Nadeesha De Alwis,female,28,92443,dog,Clinical Depression,no,yes
+Chaminda Cooray,male,91,87973,cat,Schizophrenia,no,yes
+Kaushalya Rodrigo,female,32,119446,dog,Mild Depression,no,yes
+Kaushalya Siriwardena,female,43,99912,cat,PTSD,yes,yes
+Chaminda Siriwardena,male,54,92645,cat,Schizophrenia,no,yes
+Rashmi Ranatunga,female,80,119677,cat,Autism,no,yes
+Ishara Hettiarachchi,female,95,149328,cat,Mild Anxiety,no,no
+Ireshani Rajapaksa,female,96,109976,cat,Emotional Support,no,yes
+Chathurika Rajapaksa,female,88,88329,cat,OCD – Severe,no,yes
+Viraj Fonseka,male,38,141730,cat,Bipolar Disorder,yes,yes
+Chandani Wickramaratne,female,29,135898,dog,Loneliness,no,no
+Malini Siriwardena,female,52,89422,cat,OCD – Severe,no,yes
+Chandrika Perera,female,94,118871,cat,Autism,no,yes
+Samanthi Perera,female,63,125790,cat,PTSD,no,yes
+Chamara Wijesuriya,male,53,101566,dog,Clinical Depression,no,yes
+Susantha Kumari,male,100,95330,cat,Schizophrenia,no,yes
+Asela Welikala,male,70,105470,cat,Schizophrenia,no,no
+Hansika Pathirana,female,86,72385,cat,Emotional Support,yes,no
+Chandana Yapa,male,23,110074,dog,OCD – Severe,no,no
+Nalin Wickramage,male,80,139431,dog,Bipolar Disorder,no,yes
+Ranil Seneviratne,male,69,110614,cat,Schizophrenia,no,yes
+Nishantha Wijesuriya,male,77,133336,cat,OCD – Severe,no,no
+Sandya Cooray,female,30,139307,dog,Autism,no,no
+Dilini Pathirana,female,57,119181,dog,OCD – Severe,no,yes
+Tharindu Amarasinghe,male,78,91975,cat,Emotional Support,yes,yes
+Thisara Wijesuriya,male,38,96130,dog,Panic Disorder / Severe Anxiety,no,yes
+Chathura Samarakoon,male,25,127225,dog,PTSD,no,yes
+Oshini Jayawardena,female,92,134152,cat,PTSD,no,yes
+Nuwan De Silva,male,100,73703,cat,Mild Anxiety,yes,yes
+Pavithra Kumarasinghe,female,73,123168,dog,Panic Disorder / Severe Anxiety,no,yes
+Menaka Bandara,female,23,123077,dog,Clinical Depression,no,yes
+Prasanna Wickramage,male,40,77890,cat,Autism,no,yes
+Kasun Senanayake,male,73,114850,cat,Autism,yes,yes
+Dilhani Herath,female,99,111814,cat,Autism,no,yes
+Dilrukshi Jayasuriya,female,21,85159,dog,OCD – Severe,no,yes
+Asela Gunasekara,male,97,80534,cat,Autism,no,yes
+Udaya Gunawardena,male,71,111102,cat,Emotional Support,no,yes
+Thilan Vithanage,male,42,139975,cat,Bipolar Disorder,no,yes
+Madhavi Rathnayake,female,83,114150,cat,Bipolar Disorder,no,yes
+Tharaka Rathnayake,male,96,89904,cat,Schizophrenia,no,yes
+Ayesha Jayasuriya,female,93,99332,dog,Clinical Depression,no,yes
+Chaminda Herath,male,53,128617,dog,Loneliness,no,yes
+Priyani Ekanayake,female,56,129968,cat,Bipolar Disorder,no,yes
+Arjuna Ranasinghe,male,25,143903,dog,PTSD,no,yes
+Priyantha Seneviratne,male,72,141085,cat,Clinical Depression,yes,yes
+Ranjith Madushani,male,86,98447,cat,Panic Disorder / Severe Anxiety,no,yes
+Nimali Perera,female,68,102110,cat,Autism,yes,yes
+Geethika Silva,female,48,99704,cat,Loneliness,yes,yes
+Gayathri Karunaratne,female,87,127058,cat,Autism,no,yes
+Pramila Abeysinghe,female,81,69063,cat,Mild Anxiety,no,yes
+Priyantha Gunathilaka,male,41,140866,cat,Schizophrenia,no,no
+Amaya Jayawardena,female,59,68082,dog,Panic Disorder / Severe Anxiety,no,yes
+Nilmini Jayasundara,female,75,122266,dog,Clinical Depression,no,yes
+Priyantha Welikala,male,68,115795,cat,OCD – Severe,no,yes
+Sachini Kumari,female,42,140593,dog,OCD – Severe,no,yes
+Dilini Abeysinghe,female,88,118088,dog,Clinical Depression,no,yes
+Kumari Madushani,female,82,74047,cat,PTSD,no,yes
+Dilini Hettiarachchi,female,96,108339,cat,Mild Depression,no,yes
+Piyal Ranasinghe,male,28,101937,dog,Loneliness,no,yes
+Shashika Wijesuriya,female,60,91925,dog,Mild Anxiety,no,yes
+Deepika Perera,female,19,94416,dog,Clinical Depression,no,yes
+Thilanka Pathirana,female,68,79159,cat,Loneliness,yes,yes
+Lakshman Madushani,male,72,116977,dog,Loneliness,no,yes
+Nalin Liyanage,male,65,120330,cat,Panic Disorder / Severe Anxiety,no,no
+Malini Siriwardena,female,98,103554,cat,Mild Anxiety,no,yes
+Kumari Fonseka,female,18,144793,dog,Loneliness,no,no
+Thilan Vithanage,male,43,144303,dog,Autism,no,yes
+Nimali Rodrigo,female,76,140432,cat,Clinical Depression,no,yes
+Pavithra Madushani,female,38,76454,cat,Emotional Support,no,yes
+Sarath Ekanayake,male,94,78688,cat,Schizophrenia,no,yes
+Ranjith Jayakody,male,71,96177,cat,Bipolar Disorder,no,yes
+Lahiru Fonseka,male,52,96940,dog,Loneliness,no,yes
+Menaka Yapa,female,76,89934,cat,Mild Depression,no,yes
+Chathura Fernando,male,90,106231,cat,Autism,no,yes
+Dhananjaya Samarakoon,male,97,128162,cat,OCD – Severe,no,yes
+Lakshman Karunaratne,male,57,136279,dog,Autism,no,no
+Jayantha Dissanayake,male,38,68133,dog,Bipolar Disorder,no,yes
+Jayantha Perera,male,51,120085,cat,Emotional Support,no,yes
+Rohan Fernando,male,63,149153,dog,Bipolar Disorder,no,yes
+Pradeep Seneviratne,male,85,146103,cat,Loneliness,yes,yes
+Tharindi Wijesuriya,female,83,78728,cat,PTSD,no,yes
+Kumara Wijesinghe,male,52,84251,cat,Clinical Depression,yes,yes
+Dilrukshi Wijesinghe,female,78,117855,cat,Schizophrenia,no,yes
+Sachini Wickremaratne,female,99,82153,cat,OCD – Severe,yes,yes
+Hasini Kumarasinghe,female,81,136382,cat,Schizophrenia,yes,yes
+Asanka Welikala,male,87,131109,cat,Autism,no,yes
+Chaminda Hettiarachchi,male,75,69605,cat,Loneliness,no,yes
+Mahesh Ranatunga,male,19,99267,cat,Panic Disorder / Severe Anxiety,no,yes
+Samantha Amarasinghe,male,56,91661,dog,Panic Disorder / Severe Anxiety,no,yes
+Kamani Wickramage,female,85,128446,cat,Mild Anxiety,no,yes
+Nimalka Gunasekara,female,34,125601,dog,Bipolar Disorder,no,yes
+Lakmini Dissanayake,female,79,85580,dog,Loneliness,no,yes
+Dilini Welikala,female,96,104057,dog,Mild Depression,no,no
+Dinesh Bandara,male,41,109450,cat,Schizophrenia,no,yes
+Ranjith Silva,male,35,71034,dog,Schizophrenia,no,no
+Shanika Seneviratne,female,69,108640,cat,Schizophrenia,no,yes
+Sampath Herath,male,96,144569,dog,Emotional Support,no,yes
+Chathurika Seneviratne,female,56,107866,cat,Bipolar Disorder,yes,yes
+Kamani Jayasundara,female,18,70119,cat,Schizophrenia,no,yes
+Anusha Jayasundara,female,57,140893,cat,OCD – Severe,no,yes
+Asela Dissanayake,male,25,98469,cat,OCD – Severe,no,yes
+Shashika Gunathilaka,female,76,118501,dog,OCD – Severe,no,yes
+Jayasinghe Wijesuriya,male,57,145977,dog,Panic Disorder / Severe Anxiety,no,yes
+Kasun Ranasinghe,male,43,96372,cat,Mild Anxiety,no,no
+Ishara Samaraweera,female,20,80857,dog,Mild Depression,no,yes
+Chathura Kumari,male,100,131621,dog,Schizophrenia,no,yes
+Ruvini Abeysinghe,female,87,112047,dog,Bipolar Disorder,no,no
+Niroshan Wijesinghe,male,93,131045,dog,Emotional Support,no,yes
+Asanka Liyanage,male,42,72904,cat,OCD – Severe,no,yes
+Menaka Amarasinghe,female,27,94245,dog,Loneliness,no,yes
+Pavithra Senanayake,female,94,111953,cat,OCD – Severe,yes,yes
+Sampath Madushani,male,96,128856,cat,Schizophrenia,yes,yes
+Nihal Rajapaksha,male,45,84788,dog,Panic Disorder / Severe Anxiety,no,yes
+Sanduni Wickramage,female,71,100038,cat,Mild Depression,no,yes
+Sewwandi Amarasinghe,female,19,147044,dog,Schizophrenia,no,yes
+Dinesh Fonseka,male,98,130367,cat,Clinical Depression,no,yes
+Chathumini Jayakody,female,67,146907,cat,Mild Anxiety,no,yes
+Shanika Abeysinghe,female,46,74094,cat,Emotional Support,yes,yes
+Rashmi Ranasinghe,female,33,135425,dog,Autism,no,yes
+Sandya Fonseka,female,84,86044,cat,Mild Anxiety,no,yes
+Nuwan Siriwardena,male,98,119623,dog,OCD – Severe,no,yes
+Mahesh Kumarasinghe,male,36,106384,dog,PTSD,no,yes
+Sarath Siriwardena,male,59,84848,dog,Mild Depression,no,yes
+Tharindi De Alwis,female,42,143501,dog,Panic Disorder / Severe Anxiety,no,yes
+Palitha Rodrigo,male,40,94273,dog,PTSD,no,yes
+Sunil Welikala,male,58,117237,cat,Bipolar Disorder,yes,yes
+Nimalka Fonseka,female,49,133924,dog,Bipolar Disorder,no,yes
+Dilan Yapa,male,49,112380,dog,Mild Anxiety,no,yes
+Thilan Silva,male,76,70840,cat,Emotional Support,yes,yes
+Piyal Samaraweera,male,98,140712,cat,Loneliness,no,yes
+Dilrukshi Amarasinghe,female,72,100144,dog,Clinical Depression,no,yes
+Tharindi De Silva,female,99,101340,cat,Clinical Depression,yes,yes
+Jayasinghe De Silva,male,80,142545,cat,Autism,no,no
+Ajith Gunathilaka,male,96,91857,cat,Autism,no,yes
+Pavithra Herath,female,91,117784,cat,PTSD,no,no
+Tharaka Liyanage,male,77,115701,cat,OCD – Severe,no,yes
+Upul Abeysinghe,male,93,119727,cat,Mild Depression,no,yes
+Chatura Mendis,male,69,126350,cat,OCD – Severe,no,no
+Buddhika Rajapaksha,male,24,90036,dog,Mild Depression,no,yes
+Madushi Dissanayake,female,43,120800,dog,Mild Depression,no,no
+Kamani Samaraweera,female,31,78288,dog,Panic Disorder / Severe Anxiety,no,yes
+Ajith Wijesuriya,male,53,139935,dog,Bipolar Disorder,no,yes
+Lahiru Wickramaratne,male,28,71939,dog,Bipolar Disorder,no,yes
+Amaya De Silva,female,54,97694,cat,Mild Anxiety,no,yes
+Sandya Liyanage,female,62,114467,cat,Mild Anxiety,no,yes
+Ananda Silva,male,48,107763,cat,PTSD,no,yes
+Chandrika Amarasinghe,female,98,134890,cat,Loneliness,yes,no
+Thisara Pathirana,male,47,122964,dog,Autism,no,yes
+Chandimal Herath,male,57,78750,dog,Mild Depression,no,yes
+Dilini Rajapaksha,female,59,70636,dog,Clinical Depression,no,yes
+Chandrika Mendis,female,87,79941,cat,Emotional Support,no,no
+Anusha Wijesuriya,female,58,122619,dog,Emotional Support,no,yes
+Mahesh Gunasekara,male,56,149031,dog,OCD – Severe,no,yes
+Nethmi Gunawardena,female,75,91479,cat,Panic Disorder / Severe Anxiety,no,no
+Erandi Cooray,female,92,136880,cat,Mild Anxiety,no,yes
+Dhananjaya Amarasinghe,male,75,110050,cat,Loneliness,no,yes
+Oshini Jayawardena,female,37,111592,cat,Autism,no,yes
+Dilan Mendis,male,26,141846,cat,Mild Anxiety,yes,yes
+Priyantha Rodrigo,male,99,148921,dog,Loneliness,no,yes
+Shanika Wijesuriya,female,27,117815,dog,Mild Depression,no,yes
+Tharaka Jayawardena,male,36,79080,cat,Panic Disorder / Severe Anxiety,no,yes
+Nethmi Wickremaratne,female,49,137715,dog,Clinical Depression,no,yes
+Chandrika Amarasinghe,female,45,79325,dog,Bipolar Disorder,no,no
+Niroshan Amarasinghe,male,99,88031,cat,Bipolar Disorder,no,yes
+Menaka Gunasekara,female,84,122562,cat,Clinical Depression,yes,yes
+Sandya Wickramaratne,female,48,141973,dog,OCD – Severe,no,yes
+Dilini Rajapaksa,female,100,110745,cat,Autism,no,no
+Tharindi Yapa,female,28,96442,dog,Bipolar Disorder,no,yes
+Gamini Wickremaratne,male,57,139398,cat,Schizophrenia,no,yes
+Tharindu Jayasundara,male,77,94734,cat,Loneliness,no,yes
+Rashmi Senanayake,female,31,110784,dog,Mild Depression,no,yes
+Kaushalya Wickremaratne,female,67,131002,cat,Emotional Support,no,yes
+Ireshani Ekanayake,female,64,136618,cat,OCD – Severe,yes,yes
+Samantha Wijesinghe,male,74,118931,cat,Autism,no,yes
+Jayasinghe Yapa,male,30,149522,cat,PTSD,yes,yes
+Dilini Samaraweera,female,49,114230,cat,Mild Anxiety,yes,yes
+Ruvini Siriwardena,female,18,120804,cat,Mild Anxiety,yes,yes
+Rohan Jayawardena,male,34,123309,dog,PTSD,no,yes
+Upul Jayakody,male,94,108499,cat,Mild Anxiety,no,no
+Janith Fernando,male,46,75240,cat,Panic Disorder / Severe Anxiety,no,yes
+Ruvini Karunaratne,female,72,115324,cat,Panic Disorder / Severe Anxiety,no,no
+Madushi Cooray,female,90,79344,cat,Clinical Depression,yes,yes
+Sachini Karunaratne,female,34,116898,dog,Schizophrenia,no,yes
+Bandula Ekanayake,male,73,119541,cat,Panic Disorder / Severe Anxiety,no,yes
+Arjuna Liyanage,male,23,148821,cat,Panic Disorder / Severe Anxiety,no,yes
+Lasantha Wickramasinghe,male,30,136424,dog,Schizophrenia,no,yes
+Sunil Amarasinghe,male,34,147356,dog,Bipolar Disorder,no,yes
+Chatura Seneviratne,male,99,148378,cat,Bipolar Disorder,no,yes
+Lakmini Kumari,female,77,101004,cat,Loneliness,no,no
+Chandana Wickremaratne,male,84,74895,dog,Clinical Depression,no,yes
+Ajith Senanayake,male,23,122784,dog,Loneliness,no,yes
+Ayesha Rodrigo,female,52,88524,cat,Bipolar Disorder,no,yes
+Janaka Yapa,male,69,129415,cat,Emotional Support,no,yes
+Ayesha Fernando,female,84,68008,dog,OCD – Severe,no,yes
+Hasini Senanayake,female,65,131735,dog,Schizophrenia,no,yes
+Nimalka Samarakoon,female,65,109131,cat,OCD – Severe,no,yes
+Sunil Gamage,male,98,128036,cat,Autism,yes,no
+Udaya Jayasuriya,male,73,88460,cat,Loneliness,yes,yes
+Anusha Jayawardena,female,37,111115,cat,Autism,yes,yes
+Oshini Samarakoon,female,60,114853,cat,Autism,no,yes
+Dilini Ranatunga,female,19,75197,dog,Bipolar Disorder,no,yes
+Kaushalya Ranasinghe,female,97,126483,cat,OCD – Severe,no,yes
+Nilmini Samarakoon,female,68,87628,cat,OCD – Severe,no,yes
+Chaminda Jayasuriya,male,59,120056,dog,Clinical Depression,no,no
+Ruwan Welikala,male,43,129939,cat,PTSD,no,yes
+Ireshani Wickramage,female,89,79251,cat,Clinical Depression,no,yes
+Kamani Perera,female,99,91901,dog,Loneliness,no,yes
+Nimalka Rodrigo,female,49,126564,dog,OCD – Severe,no,yes
+Menaka Fernando,female,34,122074,cat,Panic Disorder / Severe Anxiety,no,yes
+Sanjeewa Perera,male,53,137374,dog,Bipolar Disorder,no,yes
+Kamani Ekanayake,female,31,79396,dog,Bipolar Disorder,no,yes
+Pramila Fernando,female,52,85459,cat,Bipolar Disorder,no,no
+Pramila Wickramaratne,female,70,145792,cat,Mild Depression,yes,yes
+Dilini Herath,female,75,147423,dog,OCD – Severe,no,no
+Viraj Jayakody,male,86,132596,cat,OCD – Severe,no,yes
+Chandimal Vithanage,male,90,79825,cat,Clinical Depression,no,yes
+Sarath Wickramage,male,51,82781,dog,PTSD,no,yes
+Anusha Samaraweera,female,80,146548,dog,PTSD,no,yes
+Shashika Samaraweera,female,65,117765,cat,Loneliness,no,yes
+Arjuna Abeysinghe,male,62,126538,cat,Schizophrenia,no,no
+Chatura De Silva,male,100,114581,dog,Clinical Depression,no,yes
+Chatura Silva,male,93,145783,cat,Bipolar Disorder,yes,yes
+Tharindu Fernando,male,79,116140,cat,PTSD,no,yes
+Oshini Wijesuriya,female,29,127456,dog,Loneliness,no,yes
+Ireshani Rathnayake,female,49,113757,cat,PTSD,yes,yes
+Chandana Jayawardena,male,32,68392,cat,Autism,yes,yes
+Shashika Gunathilaka,female,80,118639,cat,Panic Disorder / Severe Anxiety,yes,no
+Menaka Mendis,female,72,98536,cat,Panic Disorder / Severe Anxiety,no,yes
+Jayasinghe Jayakody,male,99,124058,dog,Schizophrenia,no,yes
+Thilanka Rajapaksa,female,92,139220,cat,Mild Anxiety,no,yes
+Rashmi Ekanayake,female,24,82100,dog,Mild Depression,no,yes
+Dilrukshi Karunaratne,female,51,79054,cat,OCD – Severe,no,yes
+Upul Hettiarachchi,male,25,141867,dog,Mild Anxiety,no,no
+Gayathri Gunasekara,female,86,100552,cat,Schizophrenia,no,yes
+Amaya Fernando,female,44,130399,dog,Mild Depression,no,yes
+Dilan Abeysinghe,male,72,71480,cat,Panic Disorder / Severe Anxiety,no,yes
+Jayasinghe Bandara,male,54,148384,cat,PTSD,yes,yes
+Dilan Silva,male,78,121530,cat,Mild Depression,yes,yes
+Tharaka Liyanage,male,40,122305,dog,Loneliness,no,yes
+Nilmini Wickramaratne,female,97,88993,cat,Loneliness,no,yes
+Chatura Perera,male,28,130801,dog,Clinical Depression,no,yes
+Gamini Gunathilaka,male,79,77927,cat,Loneliness,no,yes
+Chathumini Cooray,female,53,125942,cat,Mild Anxiety,yes,yes
+Pradeep Ekanayake,male,92,88853,cat,Panic Disorder / Severe Anxiety,no,yes
+Ajith Yapa,male,60,122755,cat,Schizophrenia,no,yes
+Hiruni Jayasuriya,female,56,149002,cat,PTSD,yes,yes
+Nalin Wickramaratne,male,22,105830,dog,OCD – Severe,no,yes
+Kamani Ranasinghe,female,33,144603,dog,Loneliness,no,yes
+Pramila Ranasinghe,female,29,108971,dog,Loneliness,no,yes
+Lasantha Samaraweera,male,20,83651,dog,Autism,no,yes
+Ayesha De Silva,female,21,123606,dog,Clinical Depression,no,yes
+Nimalka Wickramasinghe,female,66,115438,dog,Clinical Depression,no,yes
+Dilini Fernando,female,43,106215,cat,Bipolar Disorder,no,yes
+Udaya Abeysinghe,male,39,84726,cat,Schizophrenia,yes,yes
+Sandya Siriwardena,female,28,135410,cat,PTSD,yes,yes
+Lahiru Samarakoon,male,36,84397,dog,OCD – Severe,no,yes
+Ravi Bandara,male,57,78840,dog,Mild Depression,no,yes
+Wasantha Perera,male,21,99067,dog,Clinical Depression,no,yes
+Rashmi Siriwardena,female,23,140015,dog,Emotional Support,no,yes
+Chathumini Wickramasinghe,female,100,74127,cat,Loneliness,no,yes
+Erandi Liyanage,female,61,68471,cat,PTSD,no,yes
+Viraj Madushani,male,98,113507,cat,Schizophrenia,no,yes
+Sampath Madushani,male,34,136787,dog,Clinical Depression,no,no
+Asanka Silva,male,71,69060,cat,Schizophrenia,no,yes
+Anil Wickramage,male,57,120090,cat,Panic Disorder / Severe Anxiety,no,yes
+Asanka Rathnayake,male,19,119825,dog,PTSD,no,yes
+Lakshman Liyanage,male,29,132237,dog,Clinical Depression,no,no
+Kasun Rajapaksa,male,36,89864,dog,Clinical Depression,no,yes
+Bandula Dissanayake,male,49,78060,cat,Bipolar Disorder,no,yes
+Deepika Seneviratne,female,53,99351,dog,Mild Depression,no,yes
+Sampath Hettiarachchi,male,94,144248,cat,PTSD,yes,yes
+Ireshani Wickramasinghe,female,33,86773,dog,Autism,no,yes
+Ruwan Ekanayake,male,90,88161,cat,Bipolar Disorder,no,no
+Nihal Yapa,male,97,89000,dog,Loneliness,no,no
+Piyal Dissanayake,male,42,86534,cat,Autism,no,yes
+Madushi Liyanage,female,83,126214,cat,Autism,yes,yes
+Tharaka Gunasekara,male,21,79361,dog,Loneliness,no,no
+Priyantha Vithanage,male,39,71142,dog,Panic Disorder / Severe Anxiety,no,yes
+Madhavi Pathirana,female,22,73291,dog,Clinical Depression,no,yes
+Mahesh Senanayake,male,54,144913,dog,PTSD,no,yes
+Chathura Seneviratne,male,63,143655,cat,OCD – Severe,yes,yes
+Sampath Gunathilaka,male,30,121266,dog,Autism,no,yes
+Priyani Wijesuriya,female,81,126141,dog,Mild Anxiety,no,yes
+Chandana Ranatunga,male,59,142070,dog,Loneliness,no,yes
+Nalin Wickremaratne,male,100,82829,cat,Schizophrenia,no,yes
+Rashmi Wickramasinghe,female,43,109489,cat,Mild Anxiety,no,yes
+Malini Siriwardena,female,61,109067,cat,Emotional Support,no,yes
+Asanka Dissanayake,male,88,115639,dog,PTSD,no,yes
+Chathura Amarasinghe,male,46,116943,dog,Loneliness,no,yes
+Chathumini Abeysinghe,female,51,77609,dog,Mild Anxiety,no,yes
+Buddhika Samaraweera,male,20,143077,dog,PTSD,no,yes
+Shalini Herath,female,37,95589,dog,OCD – Severe,no,yes
+Nalin Liyanage,male,36,70499,cat,Autism,no,yes
+Menaka Vithanage,female,96,104530,dog,Loneliness,no,yes
+Lakmini Hettiarachchi,female,48,138807,dog,Panic Disorder / Severe Anxiety,no,yes
+Chaminda Gunathilaka,male,34,124528,dog,Bipolar Disorder,no,yes
+Thilan De Silva,male,67,124613,dog,OCD – Severe,no,yes
+Lahiru Rathnayake,male,91,77379,cat,Panic Disorder / Severe Anxiety,no,no
+Ravi Ranatunga,male,48,110535,cat,OCD – Severe,no,no
+Sunil Amarasinghe,male,41,116472,dog,Autism,no,yes
+Dilan Gunathilaka,male,96,88366,dog,Clinical Depression,no,no
+Sumith Rajapaksha,male,46,109517,dog,Clinical Depression,no,no
+Tharaka Wickremaratne,male,56,141037,dog,Bipolar Disorder,no,yes
+Chandrika Welikala,female,67,89232,cat,Mild Anxiety,no,yes
+Sandya Senanayake,female,95,128487,dog,Bipolar Disorder,no,yes
+Anil Bandara,male,33,99993,dog,Clinical Depression,no,yes
+Hasini Senanayake,female,90,120692,dog,Loneliness,no,yes
+Geethika Amarasinghe,female,20,126641,cat,OCD – Severe,yes,yes
+Chandimal Dissanayake,male,44,75380,cat,Panic Disorder / Severe Anxiety,no,yes
+Sanjeewa Dissanayake,male,81,73381,cat,Loneliness,yes,yes
+Lahiru Ranasinghe,male,51,73277,dog,Clinical Depression,no,yes
+Lasantha Jayawardena,male,36,129910,dog,Clinical Depression,no,yes
+Sampath Herath,male,48,118695,dog,OCD – Severe,no,yes
+Piyal Rathnayake,male,87,104404,dog,Clinical Depression,no,yes
+Sanduni Wickramage,female,39,141949,cat,Emotional Support,yes,yes
+Nadeesha Cooray,female,99,94329,cat,OCD – Severe,no,yes
+Udaya Wickramage,male,50,71208,cat,OCD – Severe,yes,yes
+Manjula Samarakoon,female,66,78540,cat,OCD – Severe,no,yes
+Thilini Kumari,female,57,69295,cat,PTSD,no,yes
+Piyal Ekanayake,male,91,114356,cat,Emotional Support,no,yes
+Lahiru Liyanage,male,29,77519,dog,Clinical Depression,no,yes
+Nishantha Ranatunga,male,83,141885,cat,Schizophrenia,no,yes
+Nuwan Silva,male,99,131883,cat,Autism,yes,yes
+Thisara Kumarasinghe,male,74,133744,dog,Mild Anxiety,no,yes
+Chathurika Mendis,female,36,109310,dog,Autism,no,yes
+Wasantha Mendis,male,87,124438,cat,Autism,yes,yes
+Nuwan Rathnayake,male,82,133588,cat,Schizophrenia,no,yes
+Ruwan Jayasuriya,male,58,75668,dog,Emotional Support,no,yes
+Dilshan Wickremaratne,male,32,124980,cat,PTSD,yes,no
+Shalini Gunawardena,female,69,132249,cat,Emotional Support,no,yes
+Oshadi Kumari,female,84,134759,dog,Autism,no,yes
+Nadeesha Mendis,female,37,109409,cat,PTSD,no,no
+Iresha Wickramaratne,female,83,129940,dog,PTSD,no,yes
+Kumari Hettiarachchi,female,33,136829,dog,Mild Anxiety,no,yes
+Nimali Bandara,female,18,78762,dog,Emotional Support,no,yes
+Menaka Jayakody,female,68,107824,cat,Emotional Support,no,yes
+Chaminda Jayasundara,male,99,116318,cat,Bipolar Disorder,no,yes
+Sampath Samaraweera,male,79,120516,dog,Loneliness,no,no
+Sunil Gunasekara,male,31,83318,cat,Panic Disorder / Severe Anxiety,yes,yes
+Dilini Wickramage,female,78,113793,cat,Mild Depression,yes,yes
+Dilrukshi Jayakody,female,45,147924,dog,Mild Anxiety,no,yes
+Sampath Seneviratne,male,62,133201,cat,Emotional Support,no,yes
+Kasun Gunawardena,male,57,145528,cat,OCD – Severe,no,yes
+Chandani Fonseka,female,59,104440,dog,Loneliness,no,yes
+Anil Wickremaratne,male,74,71392,cat,Emotional Support,no,yes
+Chaminda Wickramasinghe,male,31,70284,cat,Emotional Support,no,yes
+Kamani Samarakoon,female,31,131463,dog,Bipolar Disorder,no,yes
+Dilini Ekanayake,female,56,97607,dog,OCD – Severe,no,yes
+Shashika Samarakoon,female,27,90700,dog,Loneliness,yes,yes
+Sandya Dissanayake,female,38,146785,dog,Loneliness,no,yes
+Ireshani Gunawardena,female,61,138657,cat,Schizophrenia,no,yes
+Hansika Amarasinghe,female,61,85231,cat,PTSD,no,yes
+Chandani Perera,female,60,106492,cat,Panic Disorder / Severe Anxiety,no,yes
+Oshini Liyanage,female,92,85154,dog,OCD – Severe,no,yes
+Ajith De Alwis,male,41,120090,cat,Bipolar Disorder,no,no
+Thilanka Hettiarachchi,female,26,137364,dog,PTSD,no,yes
+Prasanna Senanayake,male,60,120806,dog,OCD – Severe,no,yes
+Lakmini Gunasekara,female,31,98776,cat,Schizophrenia,no,yes
+Ruvini De Alwis,female,81,106363,cat,PTSD,no,yes
+Jayantha Yapa,male,35,131266,dog,Bipolar Disorder,no,yes
+Nethmi Fernando,female,50,137756,cat,Schizophrenia,no,yes
+Gayan De Alwis,male,77,139144,cat,Emotional Support,no,yes
+Palitha Rathnayake,male,32,72536,dog,Bipolar Disorder,no,yes
+Prasanna Vithanage,male,98,83107,cat,PTSD,no,no
+Madhavi Perera,female,90,78864,cat,Mild Anxiety,no,yes
+Tharindi Perera,female,59,120642,cat,Panic Disorder / Severe Anxiety,no,yes
+Dinesh Herath,male,43,75236,dog,Mild Depression,no,yes
+Samanthi Perera,female,85,85121,cat,Emotional Support,no,yes
+Menaka Yapa,female,52,110473,cat,Mild Anxiety,no,yes
+Sumith Gamage,male,30,136725,cat,Mild Depression,yes,yes
+Udaya Gunawardena,male,97,111518,cat,Emotional Support,no,no
+Sandya Dissanayake,female,33,108199,cat,Bipolar Disorder,no,yes
+Shanika Wijesinghe,female,93,143162,cat,Emotional Support,no,yes
+Sampath Jayasuriya,male,60,77868,cat,Clinical Depression,yes,yes
+Sarath Bandara,male,69,147937,dog,Panic Disorder / Severe Anxiety,no,yes
+Shalini Madushani,female,63,94991,dog,Mild Depression,no,yes
+Shalini Rodrigo,female,24,100029,dog,Schizophrenia,no,yes
+Niroshan Gunathilaka,male,76,90707,cat,Panic Disorder / Severe Anxiety,no,yes
+Iresha De Alwis,female,43,83077,cat,PTSD,no,yes
+Arjuna Rathnayake,male,47,145285,cat,Mild Anxiety,no,yes
+Oshini Vithanage,female,79,83161,cat,Mild Anxiety,no,yes
+Dilrukshi Cooray,female,76,77994,cat,PTSD,no,yes
+Oshadi Karunaratne,female,70,110838,dog,Mild Depression,no,yes
+Lakmini De Alwis,female,53,72429,dog,Emotional Support,no,yes
+Lakshman Pathirana,male,43,137062,dog,Emotional Support,no,yes
+Gamini Rajapaksa,male,29,106156,dog,Autism,no,yes
+Lakshman Kumarasinghe,male,31,77015,cat,Mild Anxiety,yes,yes
+Ranjith Jayawardena,male,19,75414,dog,Clinical Depression,no,yes
+Ruwan Herath,male,80,84336,cat,OCD – Severe,no,yes
+Dilshan Senanayake,male,35,107099,cat,OCD – Severe,no,yes
+Susantha Siriwardena,male,41,72884,dog,Loneliness,no,yes
+Ayesha Wickremaratne,female,99,101342,dog,Mild Depression,no,yes
+Madushi Gamage,female,64,131431,cat,Panic Disorder / Severe Anxiety,no,yes
+Menaka Abeysinghe,female,34,91049,dog,PTSD,no,yes
+Dilshan Wickramaratne,male,50,126804,cat,Emotional Support,yes,yes
+Thisara Gamage,male,38,71216,dog,PTSD,no,yes
+Samanthi Perera,female,40,93295,cat,Clinical Depression,yes,yes
+Nilmini Wickramasinghe,female,66,118924,cat,Schizophrenia,no,yes
+Dilshan Jayakody,male,24,130114,dog,Clinical Depression,no,yes
+Jayasinghe Wijesinghe,male,52,136751,dog,Emotional Support,no,yes
+Thilanka Senanayake,female,67,148520,cat,Schizophrenia,yes,yes
+Erandi Hettiarachchi,female,37,135796,cat,Schizophrenia,yes,yes
+Madushi Kumari,female,65,117587,cat,PTSD,yes,yes
+Nalin Vithanage,male,78,73514,cat,Autism,no,no
+Kaushalya Pathirana,female,80,82363,cat,Autism,no,yes
+Nethmi Rajapaksha,female,31,127662,dog,PTSD,no,yes
+Nimali Wickramage,female,66,139365,cat,Autism,no,yes
+Sewwandi Yapa,female,20,113702,dog,Mild Anxiety,no,yes
+Dhananjaya Bandara,male,52,107053,cat,Mild Anxiety,no,yes
+Madhavi Jayasuriya,female,20,97717,dog,Bipolar Disorder,no,yes
+Lahiru Rajapaksa,male,46,148320,dog,Mild Depression,no,yes
+Rohan Dissanayake,male,20,93440,cat,Emotional Support,yes,yes
+Ranil Jayawardena,male,91,114147,cat,Clinical Depression,no,no
+Sarath Rodrigo,male,68,131910,cat,Autism,no,yes
+Gayathri Cooray,female,25,104237,dog,Clinical Depression,no,yes
+Charuni De Silva,female,27,132331,dog,OCD – Severe,no,yes
+Lalith Mendis,male,74,123678,dog,Panic Disorder / Severe Anxiety,no,yes
+Susantha Wickramaratne,male,99,87273,cat,Mild Anxiety,no,yes
+Nihal Jayawardena,male,47,134961,dog,Clinical Depression,no,yes
+Shalini Rathnayake,female,34,72966,cat,Mild Anxiety,no,yes
+Hansika Fonseka,female,94,134913,cat,PTSD,yes,yes
+Sampath Welikala,male,83,133308,cat,Emotional Support,no,yes
+Sarath Gunathilaka,male,31,121851,dog,Mild Depression,yes,yes
+Nimali Cooray,female,37,115239,dog,Schizophrenia,no,yes
+Ruwan Gunasekara,male,22,118161,dog,Loneliness,no,yes
+Dilini Welikala,female,35,146004,dog,PTSD,no,yes
+Dhananjaya Bandara,male,92,127245,cat,Mild Depression,no,yes
+Anil De Alwis,male,65,143753,cat,Panic Disorder / Severe Anxiety,no,yes
+Priyani Ranatunga,female,71,133878,cat,PTSD,no,yes
+Oshini Jayawardena,female,91,122679,cat,Panic Disorder / Severe Anxiety,no,yes
+Pavithra Pathirana,female,23,132968,cat,Autism,yes,yes
+Ananda Kumarasinghe,male,28,114664,cat,Mild Anxiety,no,yes
+Dilshan Jayasundara,male,86,131062,cat,Clinical Depression,no,yes
+Menaka De Alwis,female,77,119140,cat,Mild Anxiety,no,yes
+Ranjith Jayasuriya,male,88,108717,cat,Emotional Support,no,yes
+Chaminda Gunathilaka,male,85,109265,dog,Loneliness,no,yes
+Nihal Perera,male,39,93674,cat,PTSD,no,yes
+Upul Ranasinghe,male,39,73983,cat,Mild Depression,no,yes
+Lasantha Yapa,male,70,94754,cat,Loneliness,no,yes
+Nimalka De Silva,female,78,123516,cat,Panic Disorder / Severe Anxiety,yes,no
+Manjula Jayasundara,female,39,143662,dog,Bipolar Disorder,no,yes
+Nethmi Cooray,female,52,71135,cat,Emotional Support,no,yes
+Rohan Samarakoon,male,49,141829,dog,OCD – Severe,no,yes
+Anusha Jayakody,female,19,82826,dog,PTSD,no,no
+Mahinda Wickramage,male,95,131257,cat,Schizophrenia,no,yes
+Chandrika Perera,female,18,83179,dog,Clinical Depression,no,yes
+Nishantha Rajapaksha,male,39,103700,cat,Mild Anxiety,no,yes
+Niroshan De Alwis,male,57,143095,cat,Mild Anxiety,no,yes
+Asanka Bandara,male,37,130413,dog,Loneliness,no,yes
+Nuwan Ekanayake,male,47,133344,dog,Panic Disorder / Severe Anxiety,no,yes
+Gamini Welikala,male,31,126290,cat,Panic Disorder / Severe Anxiety,yes,yes
+Chamara Rathnayake,male,50,80755,cat,Bipolar Disorder,no,yes
+Niroshan Gunawardena,male,73,101010,cat,OCD – Severe,no,yes
+Samantha Wickramasinghe,male,21,118551,dog,OCD – Severe,no,yes
+Viraj Rajapaksha,male,46,97976,cat,Autism,no,yes
+Tharaka Wijesuriya,male,50,149357,dog,Mild Depression,no,yes
+Thisara Fernando,male,100,123812,cat,PTSD,yes,yes
+Buddhika Gamage,male,97,91438,dog,Mild Depression,no,yes
+Arjuna Jayakody,male,78,102883,cat,Panic Disorder / Severe Anxiety,no,yes
+Dinesh Wickramaratne,male,47,98500,dog,Schizophrenia,no,yes
+Gayathri Pathirana,female,29,133135,dog,Clinical Depression,no,yes
+Nadeesha Rathnayake,female,70,136707,cat,Autism,yes,yes
+Chandana Rodrigo,male,84,117772,cat,Loneliness,yes,no
+Chamara Wickremaratne,male,69,109419,cat,Emotional Support,no,yes
+Buddhika Siriwardena,male,86,129766,dog,OCD – Severe,no,no
+Janaka Wickramage,male,91,134014,cat,Bipolar Disorder,yes,yes
+Kumari Ranasinghe,female,69,94181,dog,Schizophrenia,no,yes
+Lakmini Pathirana,female,49,76452,cat,Emotional Support,no,yes
+Asela Fonseka,male,58,117969,dog,PTSD,no,yes
+Wasantha Liyanage,male,34,136911,dog,Autism,no,yes
+Prasanna Jayawardena,male,75,127098,cat,Emotional Support,yes,yes
+Chatura Wickramaratne,male,77,96223,dog,Clinical Depression,no,yes
+Bandula Rajapaksha,male,64,131016,cat,Mild Anxiety,no,yes
+Chathura Fernando,male,52,91717,cat,Panic Disorder / Severe Anxiety,no,yes
+Ananda Rodrigo,male,33,126051,dog,Bipolar Disorder,no,yes
+Hasini Wickramasinghe,female,66,128526,cat,Panic Disorder / Severe Anxiety,yes,no
+Pradeep Yapa,male,61,71230,cat,OCD – Severe,no,no
+Gayathri Rajapaksha,female,41,140957,cat,OCD – Severe,no,yes
+Kasun De Alwis,male,56,102339,dog,Emotional Support,no,yes
+Gamini Gamage,male,52,117157,dog,Clinical Depression,no,yes
+Dilhani Liyanage,female,69,78225,dog,Schizophrenia,no,yes
+Oshadi Herath,female,18,93920,dog,Panic Disorder / Severe Anxiety,no,yes
+Samanthi Fonseka,female,21,122116,dog,Loneliness,no,yes
+Rohan Mendis,male,19,109860,cat,Mild Anxiety,no,yes
+Thilan Liyanage,male,20,68312,cat,Mild Anxiety,no,yes
+Oshini Mendis,female,27,131150,dog,Autism,no,yes
+Charuni Gamage,female,80,141614,dog,Clinical Depression,no,yes
+Menaka Seneviratne,female,85,129002,dog,Mild Anxiety,no,yes
+Mahinda Hettiarachchi,male,84,132414,dog,Schizophrenia,no,no
+Ranjith Welikala,male,93,81495,cat,Loneliness,no,no
+Upul Mendis,male,49,92227,dog,Loneliness,no,yes
+Samanthi Rajapaksha,female,49,115745,cat,Emotional Support,no,yes
+Wasantha Vithanage,male,43,134229,dog,Schizophrenia,no,yes
+Chathura Samaraweera,male,23,121819,dog,PTSD,no,yes
+Samanthi Madushani,female,94,107507,cat,PTSD,no,yes
+Nuwan Gunawardena,male,71,125570,dog,Loneliness,no,yes
+Lasantha Gamage,male,100,76314,cat,Autism,no,yes
+Nalin Kumarasinghe,male,99,143622,cat,Schizophrenia,yes,yes
+Upul Kumari,male,63,127562,cat,Emotional Support,yes,yes
+Kumari Hettiarachchi,female,89,104100,dog,PTSD,no,yes
+Hansika Abeysinghe,female,31,148633,dog,Bipolar Disorder,no,yes
+Sanduni De Silva,female,87,76488,dog,Schizophrenia,no,yes
+Mahinda Siriwardena,male,32,126621,cat,Schizophrenia,yes,yes
+Anil Wijesuriya,male,93,135380,cat,Schizophrenia,yes,yes
+Charuni Vithanage,female,35,112299,dog,PTSD,no,yes
+Anusha De Alwis,female,30,134684,dog,Schizophrenia,no,no
+Thisara Gunathilaka,male,77,94095,cat,Loneliness,yes,yes
+Sewwandi Abeysinghe,female,69,146083,dog,Clinical Depression,no,no
+Ranil Wijesinghe,male,39,97350,cat,Mild Anxiety,yes,no
+Chatura Vithanage,male,59,89295,cat,Panic Disorder / Severe Anxiety,no,no
+Shalini Gunathilaka,female,54,98500,cat,PTSD,no,yes
+Ranil Gunawardena,male,62,121656,dog,Loneliness,no,no
+Dilini Ekanayake,female,47,77792,cat,Bipolar Disorder,no,no
+Kumari Hettiarachchi,female,91,93185,cat,Panic Disorder / Severe Anxiety,no,yes
+Udaya De Alwis,male,26,137094,dog,Panic Disorder / Severe Anxiety,no,yes
+Sumith Samarakoon,male,40,138841,dog,Clinical Depression,no,yes
+Sarath Wickramasinghe,male,35,102560,cat,Schizophrenia,no,yes
+Sarath Samaraweera,male,30,113214,dog,Clinical Depression,yes,yes
+Jayasinghe Abeysinghe,male,40,96721,cat,Mild Anxiety,no,no
+Charuni Pathirana,female,83,77314,cat,Mild Depression,no,yes
+Lalith Perera,male,26,106158,dog,Schizophrenia,no,no
+Ishara Rathnayake,female,74,105579,cat,OCD – Severe,no,no
+Ananda Rodrigo,male,39,129980,dog,Panic Disorder / Severe Anxiety,no,yes
+Shashika Vithanage,female,47,101977,dog,Mild Depression,no,yes
+Pavithra Senanayake,female,87,122107,cat,Mild Depression,no,no
+Asela Welikala,male,92,102816,cat,Emotional Support,no,yes
+Sanduni Wickramage,female,23,106987,dog,Mild Depression,no,yes
+Hiruni Jayakody,female,39,96313,dog,Panic Disorder / Severe Anxiety,no,yes
+Piyal Jayawardena,male,78,118043,cat,Mild Anxiety,no,yes
+Sarath Ranatunga,male,28,129756,dog,Loneliness,no,yes
+Nimali Wickramage,female,100,104068,cat,Bipolar Disorder,yes,yes
+Chandrika Amarasinghe,female,64,89650,cat,Autism,yes,yes
+Ranjith Herath,male,27,115359,dog,Panic Disorder / Severe Anxiety,no,no
+Ayesha Gamage,female,64,70272,dog,OCD – Severe,no,yes
+Sandya Gunathilaka,female,71,137814,cat,Panic Disorder / Severe Anxiety,no,yes
+Chandimal Jayasundara,male,41,108904,dog,Loneliness,no,yes
+Nishantha Vithanage,male,27,92900,dog,Mild Depression,yes,yes
+Chathura Welikala,male,77,92232,cat,PTSD,no,yes
+Sarath Herath,male,24,90755,dog,Mild Depression,no,yes
+Lakmini Gamage,female,70,116772,cat,Loneliness,yes,yes
+Wasantha Wijesinghe,male,19,74722,dog,Clinical Depression,no,yes
+Ranil Vithanage,male,95,121789,cat,OCD – Severe,no,no
+Thisara Hettiarachchi,male,22,123921,dog,OCD – Severe,no,no
+Nadeesha Seneviratne,female,24,145383,cat,Schizophrenia,yes,yes
+Dinesh Vithanage,male,99,89735,dog,Schizophrenia,no,yes
+Thilanka Wijesinghe,female,76,149054,cat,OCD – Severe,no,yes
+Oshini Pathirana,female,30,97741,cat,Autism,no,no
+Erandi Cooray,female,33,71147,dog,Schizophrenia,no,no
+Shalini Ekanayake,female,97,147345,dog,Loneliness,no,yes
+Chathura Wickramaratne,male,50,135574,cat,Bipolar Disorder,yes,yes
+Gayan Wickramage,male,83,97623,dog,Emotional Support,no,yes
+Rashmi Senanayake,female,91,82406,cat,OCD – Severe,yes,yes
+Hasini Rodrigo,female,82,105511,cat,Clinical Depression,no,yes
+Palitha Vithanage,male,43,91053,cat,Loneliness,yes,no
+Niroshan Wijesuriya,male,24,87690,cat,Bipolar Disorder,yes,yes
+Sandya Ranatunga,female,28,143964,dog,OCD – Severe,no,no
+Hansika De Silva,female,96,80422,cat,Mild Anxiety,no,yes
+Chatura Perera,male,53,131638,dog,Loneliness,no,yes
+Sachini Kumarasinghe,female,94,148268,dog,Schizophrenia,no,yes
+Dilshan Cooray,male,94,129727,cat,Panic Disorder / Severe Anxiety,no,yes
+Sunil Samarakoon,male,65,95875,cat,Bipolar Disorder,no,yes
+Chandimal Pathirana,male,48,114054,dog,Loneliness,no,yes
+Menaka Rajapaksa,female,61,101166,dog,Loneliness,no,yes
+Chandrika Ekanayake,female,80,109349,cat,OCD – Severe,yes,yes
+Anusha Jayawardena,female,60,71597,cat,Schizophrenia,yes,yes
+Madushi Madushani,female,92,115062,cat,Bipolar Disorder,no,yes
+Chaminda Rathnayake,male,49,72116,cat,Schizophrenia,no,yes
+Sampath Silva,male,59,116061,cat,Autism,no,yes
+Sumith Rajapaksha,male,38,78375,cat,OCD – Severe,yes,yes
+Chandrika Yapa,female,79,113400,dog,Schizophrenia,no,yes
+Deepika Dissanayake,female,24,83567,dog,Mild Depression,no,yes
+Chathumini Jayawardena,female,60,146806,dog,Mild Depression,no,yes
+Iresha Yapa,female,88,134565,cat,Bipolar Disorder,no,yes
+Oshini Gunawardena,female,52,113470,dog,Mild Depression,no,yes
+Sumith Cooray,male,33,116104,cat,Schizophrenia,no,yes
+Sandya Ranasinghe,female,88,77236,cat,OCD – Severe,yes,yes
+Janith Karunaratne,male,57,91219,dog,Mild Depression,no,yes
+Dilan Perera,male,79,84295,cat,Panic Disorder / Severe Anxiety,no,yes
+Hiruni Herath,female,85,147935,dog,Loneliness,no,yes
+Kaushalya Wickramage,female,79,140190,cat,Bipolar Disorder,yes,yes
+Malini Kumarasinghe,female,67,94768,dog,Loneliness,no,yes
+Priyani Herath,female,48,130038,dog,Emotional Support,no,yes
+Chaminda Amarasinghe,male,79,99912,cat,Mild Anxiety,no,yes
+Ireshani Rodrigo,female,40,69391,cat,Schizophrenia,no,yes
+Sarath Silva,male,20,107875,dog,Mild Depression,no,yes
+Charuni Rajapaksa,female,90,89783,cat,Autism,no,no
+Anusha Samarakoon,female,83,100259,cat,Clinical Depression,no,yes
+Shalini Kumari,female,88,111595,dog,Emotional Support,no,yes
+Arjuna Dissanayake,male,34,97642,dog,Panic Disorder / Severe Anxiety,no,yes
+Janaka Amarasinghe,male,59,146181,dog,OCD – Severe,no,yes
+Nilmini Senanayake,female,19,110064,dog,Bipolar Disorder,no,yes
+Nethmi Cooray,female,53,101108,dog,Loneliness,no,yes
+Lakshman Wickramaratne,male,70,73095,dog,Schizophrenia,no,yes
+Dilshan Gamage,male,35,71560,cat,PTSD,no,yes
+Amaya Bandara,female,87,115152,cat,Clinical Depression,yes,yes
+Iresha Madushani,female,81,139227,cat,Schizophrenia,no,yes
+Anil Kumarasinghe,male,19,118966,cat,OCD – Severe,yes,no
+Tharindi Welikala,female,92,92703,cat,Mild Depression,no,yes
+Charuni Fernando,female,57,77159,cat,Clinical Depression,yes,yes
+Janaka Kumarasinghe,male,65,104124,dog,PTSD,no,yes
+Gayathri Amarasinghe,female,53,92432,dog,Clinical Depression,no,yes
+Samanthi Hettiarachchi,female,82,99868,cat,OCD – Severe,no,yes
+Nimali Rodrigo,female,22,102814,dog,Clinical Depression,no,yes
+Nimali De Silva,female,21,71262,dog,Autism,no,no
+Sachini Amarasinghe,female,98,137387,cat,Loneliness,no,yes
+Ravi Wickramaratne,male,62,99935,cat,Panic Disorder / Severe Anxiety,no,no
+Arjuna Fernando,male,94,78805,cat,Emotional Support,no,no
+Rashmi Samarakoon,female,21,143849,dog,Schizophrenia,no,yes
+Kamani Bandara,female,80,78254,cat,Schizophrenia,no,no
+Upul Jayasundara,male,34,128143,dog,Clinical Depression,no,yes
+Nishantha Liyanage,male,87,85059,cat,Mild Anxiety,yes,yes
+Tharindi Gunathilaka,female,79,111351,cat,Loneliness,no,yes
+Nethmi Cooray,female,25,83453,cat,Emotional Support,yes,no

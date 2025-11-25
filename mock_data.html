@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Therapy Dataset - Excel Generator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .info {
+            background: #f0f4ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+
+        .info h3 {
+            margin-top: 0;
+            color: #667eea;
+        }
+
+        .info ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+
+        .info li {
+            margin: 5px 0;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #5568d3;
+        }
+
+        button:active {
+            transform: scale(0.98);
+        }
+
+        .success {
+            display: none;
+            background: #d4edda;
+            color: #155724;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+            border: 1px solid #c3e6cb;
+        }
+
+        .generating {
+            display: none;
+            background: #fff3cd;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: center;
+            border: 1px solid #ffeaa7;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🐾 Pet Therapy Dataset Generator</h1>
+
+        <div class="info">
+            <h3>Dataset Information</h3>
+            <ul>
+                <li><strong>Rows:</strong> 1,000</li>
+                <li><strong>Fields:</strong> Name, Gender, Age, Salary (LKR), Owned Pet, Mental Condition, Pet-related
+                    Allergies, Satisfied with Pet</li>
+                <li><strong>Format:</strong> Excel (.xlsx)</li>
+            </ul>
+        </div>
+
+        <button onclick="generateExcel()">📥 Download Excel File (1000 Rows)</button>
+
+        <div id="generatingMsg" class="generating">
+            ⏳ Generating your dataset...
+        </div>
+
+        <div id="successMsg" class="success">
+            ✅ Excel file downloaded successfully!
+        </div>
+    </div>
+
+    <script>
+        const sriLankanNames = {
+            male: [
+                "Chaminda", "Kasun", "Rohan", "Thilan", "Pradeep", "Nuwan", "Mahesh", "Sanjeewa",
+                "Dinesh", "Lakshman", "Sunil", "Wasantha", "Arjuna", "Gayan", "Ruwan", "Ajith",
+                "Nihal", "Bandula", "Nalin", "Janaka", "Chatura", "Ananda", "Prasanna", "Upul",
+                "Jayantha", "Tharindu", "Sampath", "Chamara", "Asanka", "Priyantha", "Chandana",
+                "Ranil", "Mahinda", "Janith", "Anil", "Nishantha", "Sumith", "Asela", "Susantha",
+                "Ranjith", "Buddhika", "Gamini", "Niroshan", "Sarath", "Lalith", "Piyal", "Palitha",
+                "Dhananjaya", "Jayasinghe", "Samantha", "Tharaka", "Dilshan", "Lasantha", "Udaya",
+                "Ravi", "Kumara", "Chandimal", "Thisara", "Viraj", "Dilan", "Chathura", "Lahiru"
+            ],
+            female: [
+                "Dilini", "Nimalka", "Shalini", "Amaya", "Sewwandi", "Rashmi", "Chandani", "Iresha",
+                "Malini", "Kumari", "Nilmini", "Pramila", "Sanduni", "Chathurika", "Nethmi", "Samanthi",
+                "Shanika", "Charuni", "Ayesha", "Manjula", "Dilhani", "Sachini", "Nadeeka", "Hansika",
+                "Madushi", "Anusha", "Thilini", "Geethika", "Oshadi", "Priyani", "Kamani", "Gayathri",
+                "Menaka", "Nimali", "Dilrukshi", "Chandrika", "Deepika", "Hasini", "Kaushalya", "Erandi",
+                "Shashika", "Ishara", "Ruvini", "Nadeesha", "Tharindi", "Chathumini", "Pavithra", "Lakmini",
+                "Ireshani", "Thilanka", "Sandya", "Hiruni", "Oshini", "Madhavi", "Menaka", "Dilini"
+            ],
+            surnames: [
+                "Perera", "Fernando", "Silva", "Jayawardena", "Wickramasinghe", "Rajapaksa", "Gunasekara",
+                "Dissanayake", "Bandara", "Kumari", "Herath", "Liyanage", "Senanayake", "Wijesinghe",
+                "Rodrigo", "Jayasuriya", "Samaraweera", "Mendis", "Amarasinghe", "Ranasinghe", "Ekanayake",
+                "Wickremaratne", "Pathirana", "Wijesuriya", "Gamage", "De Silva", "Karunaratne", "Siriwardena",
+                "Gunathilaka", "Jayakody", "Samarakoon", "Fonseka", "Gunawardena", "Welikala", "Ranatunga",
+                "Yapa", "Hettiarachchi", "Madushani", "Vithanage", "Rajapaksha", "Abeysinghe", "Wickramage",
+                "Cooray", "Rathnayake", "De Alwis", "Jayasundara", "Kumarasinghe", "Seneviratne", "Wickramaratne"
+            ]
+        };
+
+        const mentalConditions = [
+            "PTSD", "Panic Disorder / Severe Anxiety", "Mild Anxiety", "Clinical Depression (Dog)",
+            "Mild Depression", "Autism", "Bipolar Disorder", "Schizophrenia", "OCD – Severe",
+            "Loneliness", "Emotional Support"
+        ];
+
+        function getRandomElement(array) {
+            return array[Math.floor(Math.random() * array.length)];
+        }
+
+        function generateRandomAge() {
+            return Math.floor(Math.random() * (100 - 18 + 1)) + 18;
+        }
+
+        function generateRandomSalary() {
+            return Math.floor(Math.random() * (150000 - 68000 + 1)) + 68000;
+        }
+
+        function generateName(gender) {
+            const firstName = getRandomElement(sriLankanNames[gender]);
+            const surname = getRandomElement(sriLankanNames.surnames);
+            return `${firstName} ${surname}`;
+        }
+
+        function generateExcel() {
+            const generatingMsg = document.getElementById('generatingMsg');
+            const successMsg = document.getElementById('successMsg');
+
+            generatingMsg.style.display = 'block';
+            successMsg.style.display = 'none';
+
+            setTimeout(() => {
+                const data = [
+                    ["Name", "Gender", "Age", "Salary", "Owned Pet", "Mental Condition", "Pet-related Allergies", "Satisfied with Pet"]
+                ];
+
+                // Generate 1000 rows of data
+                for (let i = 0; i < 1000; i++) {
+                    const gender = Math.random() > 0.5 ? "male" : "female";
+                    const name = generateName(gender);
+                    const age = generateRandomAge();
+                    const salary = generateRandomSalary();
+                    const mentalCondition = getRandomElement(mentalConditions);
+                    const allergies = Math.random() > 0.85 ? "yes" : "no"; // 15% have allergies
+
+                    // --- NEW LOGIC START ---
+                    // We calculate a "Dog Score" based on features. 
+                    // Higher score = more likely to own a Dog.
+                    let dogProbability = 0.5;
+
+                    // Rule 1: Allergies usually mean NO Dog (Stronger penalty)
+                    if (allergies === "yes") {
+                        dogProbability -= 0.8; // Almost impossible to get a dog if allergic
+                    }
+
+                    // Rule 2: Young people might prefer Dogs (more energy)
+                    if (age < 35) {
+                        dogProbability += 0.3;
+                    } else if (age > 60) {
+                        dogProbability -= 0.3; // Older prefer Cats
+                    }
+
+                    // Rule 3: High salary might support Dogs (higher cost)
+                    if (salary > 120000) {
+                        dogProbability += 0.2;
+                    }
+
+                    // Rule 4: Specific conditions match specific pets (Stronger weights)
+                    if (mentalCondition.includes("Depression") || mentalCondition.includes("Loneliness")) {
+                        dogProbability += 0.3; // Dogs are great for active companionship
+                    }
+                    if (mentalCondition.includes("Anxiety") || mentalCondition.includes("Autism") || mentalCondition.includes("Stress")) {
+                        dogProbability -= 0.2; // Cats are calmer
+                    }
+
+                    // Clamp probability between 0 and 1
+                    if (dogProbability < 0) dogProbability = 0;
+                    if (dogProbability > 1) dogProbability = 1;
+
+                    // Final Decision based on the calculated probability
+                    const ownedPet = Math.random() < dogProbability ? "dog" : "cat";
+                    // --- NEW LOGIC END ---
+
+                    const satisfied = Math.random() > 0.15 ? "yes" : "no"; // 85% are satisfied
+
+                    data.push([name, gender, age, salary, ownedPet, mentalCondition, allergies, satisfied]);
+                }
+
+                const ws = XLSX.utils.aoa_to_sheet(data);
+
+                // Auto-size columns
+                const colWidths = [
+                    { wch: 25 }, // Name
+                    { wch: 10 }, // Gender
+                    { wch: 8 },  // Age
+                    { wch: 12 }, // Salary
+                    { wch: 12 }, // Owned Pet
+                    { wch: 35 }, // Mental Condition
+                    { wch: 20 }, // Pet-related Allergies
+                    { wch: 20 }  // Satisfied with Pet
+                ];
+                ws['!cols'] = colWidths;
+
+                const wb = XLSX.utils.book_new();
+                XLSX.utils.book_append_sheet(wb, ws, "Pet Therapy Data");
+
+                XLSX.writeFile(wb, "pet_therapy_dataset_1000rows.xlsx");
+
+                // Show success message
+                generatingMsg.style.display = 'none';
+                successMsg.style.display = 'block';
+                setTimeout(() => {
+                    successMsg.style.display = 'none';
+                }, 3000);
+            }, 100);
+        }
+    </script>
+</body>
+
+</html>
