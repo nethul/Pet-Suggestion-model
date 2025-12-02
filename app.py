@@ -16,11 +16,16 @@ CORS(app, resources={
 
 # Load the model
 MODEL_PATH = 'pet_suggestion_model.pkl'
-if os.path.exists(MODEL_PATH):
-    model = joblib.load(MODEL_PATH)
-else:
+model = None
+try:
+    if os.path.exists(MODEL_PATH):
+        model = joblib.load(MODEL_PATH)
+        print(f"✅ Model loaded from {MODEL_PATH}")
+    else:
+        print(f"Warning: Model file not found at {MODEL_PATH}")
+except Exception as e:
+    print(f"❌ Error loading model: {e}")
     model = None
-    print(f"Warning: Model file not found at {MODEL_PATH}")
 
 @app.route('/')
 def home():
