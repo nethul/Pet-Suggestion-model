@@ -54,32 +54,69 @@ for _ in range(1000):
     allergies = "yes" if random.random() > 0.85 else "no"
 
     # --- NEW LOGIC START ---
-    dog_probability = 0.5
+    # Breeds
+    dog_breeds = ["German Shepherd", "Golden Retriever", "Labrador Retriever", "Pomeranian"]
+    cat_breeds = ["Persian", "Siamese", "Himalayan"]
 
-    # Rule 1: Allergies
+    # Scores for each breed
+    breed_scores = {breed: 0 for breed in dog_breeds + cat_breeds}
+
+    # 1. Allergies (Cats are generally worse for allergies, but we'll assume "yes" means avoid pets or prefer hypoallergenic - let's simplify: if allergies, reduce all pets, maybe prefer fish? But we only have dogs/cats. Let's reduce all, but maybe some dogs are better? Let's just reduce probability of any pet, but if they MUST have one (which this script assumes they have one), maybe no strong preference change between breeds for now, or maybe hairless cats? We don't have those. Let's assume allergies -> lower chance of high-shedding breeds.)
+    # For this synthetic data, let's say Allergies = 'yes' makes them less likely to be 'Satisfied' with high shedding pets, but here we are predicting the BEST pet.
+    # Let's assume if Allergies=Yes, we might prefer "Pomeranian" (smaller) or "Siamese" (shorter hair) over "German Shepherd" or "Persian".
     if allergies == "yes":
-        dog_probability -= 0.8
+        breed_scores["Pomeranian"] += 2
+        breed_scores["Siamese"] += 2
+        breed_scores["German Shepherd"] -= 2
+        breed_scores["Persian"] -= 2
 
-    # Rule 2: Age
-    if age < 35:
-        dog_probability += 0.3
+    # 2. Age
+    if age < 30:
+        # Young people might like active dogs
+        breed_scores["German Shepherd"] += 3
+        breed_scores["Golden Retriever"] += 2
+        breed_scores["Labrador Retriever"] += 2
     elif age > 60:
-        dog_probability -= 0.3
+        # Elderly might prefer calmer/smaller pets
+        breed_scores["Pomeranian"] += 4
+        breed_scores["Persian"] += 4
+        breed_scores["Himalayan"] += 3
+        breed_scores["German Shepherd"] -= 3 # Too active/strong
 
-    # Rule 3: Salary
+    # 3. Salary
+    # Larger dogs might cost more to feed/maintain
     if salary > 120000:
-        dog_probability += 0.2
+        breed_scores["German Shepherd"] += 1
+        breed_scores["Golden Retriever"] += 1
+        breed_scores["Persian"] += 1 # Grooming costs
+    elif salary < 80000:
+        breed_scores["Pomeranian"] += 1 # Smaller, less food
+        breed_scores["Siamese"] += 1
 
-    # Rule 4: Mental Condition
-    if "Depression" in mental_condition or "Loneliness" in mental_condition:
-        dog_probability += 0.3
-    if "Anxiety" in mental_condition or "Autism" in mental_condition or "Stress" in mental_condition:
-        dog_probability -= 0.2
+    # 4. Mental Condition
+    if "Anxiety" in mental_condition or "PTSD" in mental_condition:
+        # Protective or comforting
+        breed_scores["German Shepherd"] += 2 # Protective
+        breed_scores["Golden Retriever"] += 3 # Comforting
+        breed_scores["Labrador Retriever"] += 3
+    elif "Depression" in mental_condition or "Loneliness" in mental_condition:
+        # Companionship
+        breed_scores["Golden Retriever"] += 3
+        breed_scores["Labrador Retriever"] += 3
+        breed_scores["Pomeranian"] += 2
+        breed_scores["Siamese"] += 2 # Talkative
+    elif "Autism" in mental_condition:
+        # Gentle, predictable
+        breed_scores["Golden Retriever"] += 3
+        breed_scores["Labrador Retriever"] += 3
+        breed_scores["Himalayan"] += 2
 
-    # Clamp
-    dog_probability = max(0, min(1, dog_probability))
+    # Select breed with highest score + some randomness
+    # Add random noise to scores to ensure variety
+    for breed in breed_scores:
+        breed_scores[breed] += random.uniform(-1, 1)
 
-    owned_pet = "dog" if random.random() < dog_probability else "cat"
+    owned_pet = max(breed_scores, key=breed_scores.get)
     # --- NEW LOGIC END ---
 
     satisfied = "yes" if random.random() > 0.15 else "no"
