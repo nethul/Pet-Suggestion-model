@@ -56,14 +56,21 @@ document.addEventListener('DOMContentLoaded', () => {
         // Normalize pet string
         const petLower = pet.toLowerCase();
 
-        if (petLower.includes('dog')) {
+        // Breed Lists
+        const dogBreeds = ['german shepherd', 'golden retriever', 'labrador retriever', 'pomeranian', 'dog'];
+        const catBreeds = ['persian', 'siamese', 'himalayan', 'cat'];
+
+        const isDog = dogBreeds.some(breed => petLower.includes(breed));
+        const isCat = catBreeds.some(breed => petLower.includes(breed));
+
+        if (isDog) {
             resultIcon.textContent = '🐶';
-            predictionText.textContent = 'Dog';
-            resultDescription.textContent = 'A loyal and energetic dog would be your perfect companion!';
-        } else if (petLower.includes('cat')) {
+            predictionText.textContent = pet; // Show the specific breed
+            resultDescription.textContent = `A loyal and energetic ${pet} would be your perfect companion!`;
+        } else if (isCat) {
             resultIcon.textContent = '🐱';
-            predictionText.textContent = 'Cat';
-            resultDescription.textContent = 'A independent and cuddly cat matches your lifestyle perfectly!';
+            predictionText.textContent = pet; // Show the specific breed
+            resultDescription.textContent = `A independent and cuddly ${pet} matches your lifestyle perfectly!`;
         } else {
             resultIcon.textContent = '🐾';
             predictionText.textContent = pet;
@@ -74,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const costContainer = document.getElementById('costContainer');
         let costHtml = '';
 
-        if (petLower.includes('dog')) {
+        if (isDog) {
             costHtml = `
                 <div class="cost-info">
                     <h4>Estimated Monthly Cost</h4>
@@ -94,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                 </div>
             `;
-        } else if (petLower.includes('cat')) {
+        } else if (isCat) {
             costHtml = `
                 <div class="cost-info">
                     <h4>Estimated Monthly Cost</h4>
